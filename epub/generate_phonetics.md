@@ -91,7 +91,7 @@ Let's build a rule to handle the Irish word "mbualadh" (their striking). This wo
 
 To parse this dynamically, we use Pynini's `cdrewrite` (context-dependent rewrite) function. 
 
-First, we define a rule that says "whenever you see the string 'mb', rewrite it as 'm', but ONLY if it sits at the *very beginning* of the word." If "mb" appears anywhere else, we leave it alone. We specify this by requiring the Left Context to be `[BOS]` (Beginning of String):
+First, we define a rule that says "whenever you see the string 'mb', rewrite it as 'm', but ONLY if it sits at the *very beginning* of the word." If "mb" appears anywhere else, we leave it alone. We specify this by requiring the Left Context to be `<cite>[BOS]</cite>` (Beginning of String):
 
 ```python
 # The .closure() on the alphabet allows any combination of valid letters
@@ -100,20 +100,20 @@ sigma_star = pynini.union(*"[a-zA-Záéíóúə/]").closure()
 # Cross 'mb' to 'm', ONLY at the start of the word
 eclipsis_b = pynini.cdrewrite(
     pynini.cross("mb", "m"), 
-    "[BOS]",  # Left context (must be at the start of the word)
+    "<cite>[BOS]</cite>",  # Left context (must be at the start of the word)
     "",  # Right context (empty = anywhere)
     sigma_star
 )
 ```
 
-Next, we define a rule that collapses the complex multi-letter suffix `-adh` into the single phoneme `/ə/`. However, we only want this to happen if the letters appear at the *very end* of a word, not in the middle. We specify this by requiring the Right Context to be `[EOS]` (End of String):
+Next, we define a rule that collapses the complex multi-letter suffix `-adh` into the single phoneme `/ə/`. However, we only want this to happen if the letters appear at the *very end* of a word, not in the middle. We specify this by requiring the Right Context to be `<cite>[EOS]</cite>` (End of String):
 
 ```python
-# Cross 'adh' to 'ə', but ONLY if it sits right before the End of String ([EOS])
+# Cross 'adh' to 'ə', but ONLY if it sits right before the End of String (<cite>[EOS]</cite>)
 suffix_adh = pynini.cdrewrite(
     pynini.cross("adh", "ə"), 
     "",       # Left context (empty = anywhere)
-    "[EOS]",  # Right context (must be at the end of the word)
+    "<cite>[EOS]</cite>",  # Right context (must be at the end of the word)
     sigma_star
 )
 ```
