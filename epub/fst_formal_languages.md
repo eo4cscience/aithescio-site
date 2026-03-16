@@ -1,0 +1,58 @@
+# Finite State Transducers and Formal Languages
+
+To understand how a machine like Aithesc.io can perfectly parse the complex grammar of Irish, we need to look at the underlying math and computer science concepts: **Formal Languages** and **Finite State Transducers**.
+
+Don't let the technical terms intimidate you! The concepts behind them are surprisingly straightforward.
+
+## What is a Formal Language?
+
+In computer science, a "language" is not quite the same as a natural human language like English or Irish. 
+
+A **Formal Language** is simply a set of accepted strings (sequences of characters or words) that are built from a specific alphabet, following a strict set of rules. 
+
+Imagine a very simple formal language where the only alphabet characters are `meow` and the only rule is "a valid word must be the word *meow* repeated one or more times."
+*   `meow` (Valid)
+*   `meowmeow` (Valid)
+*   `bark` (Invalid - wrong characters)
+*   `meo` (Invalid - broken rule)
+
+If a string perfectly follows the rules, it belongs to the formal language. If it breaks even one rule, it is rejected.
+
+### Formal Grammars: The Rulebook
+
+How do we define which strings belong to the formal language and which do not? We use a **Formal Grammar**. 
+
+A formal grammar is the strict, mathematical rulebook that generates the valid strings of a formal language. In the context of our Irish parser, our "Formal Grammar" is the massive set of specific linguistic rules governing how Irish words are allowed to be built—rules like *Caol le caol* (broad with broad, slender with slender), how plurals are formed, and when an *urú* (eclipsis) is allowed to happen.
+
+By writing down these rules mathematically, we are telling the computer the exact boundaries of the "Formal Language of Irish Morphology."
+
+## Enter the Finite State Transducer (FST)
+
+Now that we have a mathematical rulebook (the grammar) that defines all possible valid Irish words (the formal language), we need a machine to actually process the words. This is where the **Finite State Transducer (FST)** comes in.
+
+An FST is a theoretical "machine" (a piece of software) that analyzes strings of text. What makes an FST special—the *Transducer* part—is that it doesn't just read an input string; it **translates** it into an output string based on the rules.
+
+### How an FST Converts Strings
+
+An FST operates on two "tapes": an Input Tape and an Output Tape. It reads the input character by character and writes the corresponding translation to the output. 
+
+In the world of morphological parsing, we typically deal with two levels of text:
+1.  **Surface Form:** The actual word as it appears in a sentence (e.g., *mbád*).
+2.  **Lexical Form:** The root dictionary word plus its grammatical tags (e.g., *bád + Noun + Masculine + Plural*).
+
+When you feed an Irish word into our FST, the machine consults its formal grammar rules to "transduce" (convert) the string:
+
+*   **Input (Surface Form):** `b h f e a r a i b h`
+*   **The FST thinks:** *"I see a 'bhf' at the start. That is the eclipsis of 'f'. The root must start with 'f'. I see 'aibh' at the end. That is a dative plural ending for a specific class of nouns."*
+*   **Output (Lexical Form):** `fear + Noun + Dative + Plural`
+
+Because it is purely mathematical, the FST does this instantly, examining every possible rule combination until it finds the exact path that validates the input word. 
+
+### Two-Way Translation in Irish
+
+The most powerful feature of an FST is that it is **bidirectional**. This is a game-changer for a highly mutating language like Irish.
+
+*   **Parsing (Analysis):** You give it the complex, mutated word (*mbád*), and it strips away the grammar to give you the root and tags (*bád + Noun + Eclipsed*).
+*   **Generation (Synthesis):** You give it a root and requested tags (*teach + Noun + Plural*), and the FST runs backwards through the rules to securely generate the correct, grammatically perfect word (*tithe*).
+
+By mapping out the entire formal grammar of Irish and converting it into a Finite State Transducer, Aithesc.io guarantees 100% precision in breaking down and building up one of Europe's most complex languages, without ever having to "guess."

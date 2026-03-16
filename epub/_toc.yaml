@@ -1,0 +1,132 @@
+---
+mode: ling
+book_title: "Aithesc.io - Formal Irish Linguistics"
+frontpage: "10010.000_front_page.md"
+parts:
+  - title: "Introduction"
+    chapters:
+      - title: "Aithesc.io Documentation"
+        path: "10010.000_intro.md"
+
+  - title: "The Project"
+    chapters:
+      - title: "Project Introduction"
+        path: "10010.000_research_irish_morphparse.md"
+      - title: "Project Proposal"
+        path: "10010.000_projprop_irish_morphparse.md"
+      - title: "Literature Review"
+        path: "10010.000_litrev_irish_morphparse.md"
+
+  - title: "The Irish Language"
+    chapters:
+      - title: "Introducing the Irish Language"
+        path: "10010.000_intro_irish.md"
+      - title: "On the Atlantic Substrate Theory"
+        path: "10010.010_atlantic_substrate_theory.md"
+
+  - title: "The Linguistics Theory"
+    chapters:
+
+      - title: "The Linguistic Process: from Phonetics to Semantics"
+        path: "10010.000_linguistic_process.md"
+
+      - title: "The Sounds of Irish"
+        path: "10020.000_phonetics_overview.md"
+    
+      - title: "The Word Structure of Irish"
+        path: "10010.000_parse_morphology.md"
+      
+      - title: "The eGrammar of Irish"
+        path: "10010.000_fst_formal_languages.md"
+
+  - title: "Morphology"
+    chapters:
+      - title: "Morphology - An Overview"
+        path: "10010.000_morphology_intro.md"
+      - title: "Morphology and the Leipzig Interlinear Gloss"
+        path: "10010.005_lig_morphology.md"
+      - title: "Initial Consonant Mutations"
+        path: "10010.000_mutations.md"
+      - title: "Irish Nouns"
+        path: "10010.000_nouns.md"
+
+  - title: "Phonetics"
+    chapters:
+      - title: "Phonetics Introduction"
+        path: "10010.000_phonetics_intro.md"
+
+  - title: "DEVELOPMENT"
+    chapters:
+      - title: "Injection Results"
+        path: "test_injection_build.md"
+
+  - title: "Appendices"
+    chapters:
+      - title: "Bibliography"
+        path: "10010.000_references.md"
+
+---
+mode: mod
+book_title: "Aithesc.io - Modeling Linguistics"
+frontpage: "10020.000_front_page.md"
+parts:
+  - title: "Introduction"
+    chapters:
+      - title: "FST Linguistics Modeling"
+        path: "10020.000_fst_linguistic_modeling.md"
+
+  - title: "What is a Phonetic Model?"
+    chapters:
+      - title: "Phonetics Generation"
+        path: "10010.000_generate_phonetics.md"
+      - title: "FST Phonetics"
+        path: "10020.000_fst_phonetics.md"
+
+  - title: "What is a Morphological Model?"
+    chapters:
+      - title: "A Minimal Example"
+        path: "10020.000_fst_pipeline_example.md"
+      - title: "Lexicon"
+        path: "10020.000_lexicon.md"
+      - title: "Morphological Parsing - Overview"
+        path: "10020.000_morphological_parsing.md"
+      - title: "Morphotactics"
+        path: "10020.000_morphotactics.md"
+      - title: "Morphophonology"
+        path: "10020.000_morphophonology.md"
+      - title: "Morphology"
+        path: "10020.000_morphology.md"
+      - title: "Phonotactics"
+        path: "10020.000_phonotactics.md"
+      - title: "Nominal Paradigm"
+        path: "10020.000_nominal_paradigm.md"
+      - title: "Verbal Paradigm"
+        path: "10020.000_verbal_paradigm.md"
+      - title: "Closed Functional Forms"
+        path: "10020.000_closed_functional.md"
+      - title: "Sentence Syntax"
+        path: "10020.000_sentence_syntax.md"
+
+  - title: "Finite State Transducers"
+    chapters:
+      - title: "Formal languages"
+        path: "10020.000_fst_formal_languages.md"
+
+---
+mode: code
+book_title: "Aithesc.io - FST, Code & Implementation"
+frontpage: "10030.000_intro.md"
+parts:
+  - title: "Morphology FST Models Implementation"
+    chapters:
+      - title: "Pynini Grammar"
+        path: "10030.000_parse_morphology.md"
+      - title: "Grammar Feature Space and Paradigms"
+        path: "10030.000_paradigm.md"
+      - title: "Nominal Paradigms"
+        path: "10030.010_nominal_paradigm.md"
+      - title: "Verbal Paradigms"
+        path: "10030.010_verbal_paradigm.md"
+      - title: "Other Paradigms"
+        path: "10030.020_other_paradigms.md"
+
