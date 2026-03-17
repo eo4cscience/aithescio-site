@@ -3,344 +3,344 @@ This table contains the full regression suite from `test_wikipedia.py`. It is us
 
 | Orthography | Italicized (Target for Injection) |
 | :--- | :--- |
-| cuinín | <ga ipa="/kʊɪnʲəːnʲ/">cuinín</ga> |
-| bain | <ga ipa="/bˠanʲ/">bain</ga> |
-| scuab | <ga ipa="/sˠkʊəbˠ/">scuab</ga> |
-| béal | <ga ipa="/bʲɛːalˠ/">béal</ga> |
-| cnáib | <ga ipa="/knˠaːɪbʲ/">cnáib</ga> |
-| bhain | <ga ipa="/wanʲ/">bhain</ga> |
-| ábhar | <ga ipa="/aːwaɾˠ/">ábhar</ga> |
-| dubhaigh | <ga ipa="/d̪ˠʊwəj/">dubhaigh</ga> |
-| taobh | <ga ipa="/t̪ˠɪːw/">taobh</ga> |
-| dubh | <ga ipa="/d̪ˠʊw/">dubh</ga> |
-| bhéal | <ga ipa="/vʲɛːalˠ/">bhéal</ga> |
-| cuibhreann | <ga ipa="/kʊɪvʲɾʲəːn̠ʲ/">cuibhreann</ga> |
-| aibhneacha | <ga ipa="/avʲnʲəçə/">aibhneacha</ga> |
-| sibh | <ga ipa="/ʃɪvʲ/">sibh</ga> |
-| bhfuinneog | <ga ipa="/wʊɪn̠ʲɔːɟ/">bhfuinneog</ga> |
-| bhfíon | <ga ipa="/vʲɪːɔnˠ/">bhfíon</ga> |
-| bpoll | <ga ipa="/bˠɔl̪ˠ/">bpoll</ga> |
-| bpríosún | <ga ipa="/bʲɾʲɪːɔsˠʊːnˠ/">bpríosún</ga> |
-| cáis | <ga ipa="/kaːɪʃ/">cáis</ga> |
-| mac | <ga ipa="/mˠak/">mac</ga> |
-| ceist | <ga ipa="/cɛʃtʲ/">ceist</ga> |
-| mic | <ga ipa="/mʲɪc/">mic</ga> |
-| cháis | <ga ipa="/xaːɪʃ/">cháis</ga> |
-| taoiseach | <ga ipa="/t̪ˠɪːʃaç/">taoiseach</ga> |
-| boichte | <ga ipa="/bˠɔɪçtʲə/">boichte</ga> |
-| cheist | <ga ipa="/çɛʃtʲ/">cheist</ga> |
-| deich | <ga ipa="/dʲɛç/">deich</ga> |
-| oíche | <ga ipa="/ɔɪːçə/">oíche</ga> |
-| dorn | <ga ipa="/d̪ˠɔɾˠnˠ/">dorn</ga> |
-| nead | <ga ipa="/nʲadʲ/">nead</ga> |
-| dearg | <ga ipa="/dʲaɾʲɟ/">dearg</ga> |
-| cuid | <ga ipa="/kʊɪdʲ/">cuid</ga> |
-| dhorn | <ga ipa="/ɣɔɾˠnˠ/">dhorn</ga> |
-| ádh | <ga ipa="/aːɣ/">ádh</ga> |
-| dhearg | <ga ipa="/jaɾʲɟ/">dhearg</ga> |
-| fáidh | <ga ipa="/fˠaːɪj/">fáidh</ga> |
-| dtaisce | <ga ipa="/d̪ˠaʃcə/">dtaisce</ga> |
-| greadta | <ga ipa="/ɟɾʲadʲtʲə/">greadta</ga> |
-| dtír | <ga ipa="/dʲɪːɾʲ/">dtír</ga> |
-| goidte | <ga ipa="/ɡɔɪdʲtʲə/">goidte</ga> |
-| fós | <ga ipa="/fˠɔːsˠ/">fós</ga> |
-| graf | <ga ipa="/ɡɾˠafˠ/">graf</ga> |
-| fíon | <ga ipa="/fʲɪːɔnˠ/">fíon</ga> |
-| stuif | <ga ipa="/sˠt̪ˠʊɪfʲ/">stuif</ga> |
-| fhuinneog | <ga ipa="/ʊɪn̠ʲɔːɟ/">fhuinneog</ga> |
-| fhíon | <ga ipa="/ɪːɔnˠ/">fhíon</ga> |
-| gasúr | <ga ipa="/ɡasˠəːɾˠ/">gasúr</ga> |
-| bog | <ga ipa="/bˠɔɡ/">bog</ga> |
-| geata | <ga ipa="/ɟatʲə/">geata</ga> |
-| carraig | <ga ipa="/kaɾˠəɟ/">carraig</ga> |
-| gcáis | <ga ipa="/ɡaːɪʃ/">gcáis</ga> |
-| gceist | <ga ipa="/ɟɛʃtʲ/">gceist</ga> |
-| ghasúr | <ga ipa="/ɣasˠəːɾˠ/">ghasúr</ga> |
-| eoghan | <ga ipa="/ɔːjənˠ/">eoghan</ga> |
-| gheata | <ga ipa="/jatʲə/">gheata</ga> |
-| dóigh | <ga ipa="/d̪ˠɔːɪj/">dóigh</ga> |
-| hata | <ga ipa="/hˠat̪ˠə/">hata</ga> |
-| jab | <ga ipa="/jabˠ/">jab</ga> |
-| jíp | <ga ipa="/jɪːpʲ/">jíp</ga> |
-| luí | <ga ipa="/lˠʊɪː/">luí</ga> |
-| lann | <ga ipa="/lˠaːn̪ˠ/">lann</ga> |
-| béal | <ga ipa="/bʲɛːalˠ/">béal</ga> |
-| leisciúil | <ga ipa="/lʲɛʃcɪʊːɪlʲ/">leisciúil</ga> |
-| leanbh | <ga ipa="/lʲanʲvʲ/">leanbh</ga> |
-| siúil | <ga ipa="/ʃɪʊːɪlʲ/">siúil</ga> |
-| mór | <ga ipa="/mˠɔːɾˠ/">mór</ga> |
-| am | <ga ipa="/aːmˠ/">am</ga> |
-| milis | <ga ipa="/mʲɪlʲəʃ/">milis</ga> |
-| im | <ga ipa="/ɪmʲ/">im</ga> |
-| mbaineann | <ga ipa="/mˠanʲəːn̠ʲ/">mbaineann</ga> |
-| mbéal | <ga ipa="/mʲɛːalˠ/">mbéal</ga> |
-| mhór | <ga ipa="/wɔːɾˠ/">mhór</ga> |
-| lámha | <ga ipa="/lˠaːwa/">lámha</ga> |
-| léamh | <ga ipa="/lʲɛːaw/">léamh</ga> |
-| mhilis | <ga ipa="/vʲɪlʲəʃ/">mhilis</ga> |
-| uimhir | <ga ipa="/ʊɪvʲəɾʲ/">uimhir</ga> |
-| nimh | <ga ipa="/nʲɪvʲ/">nimh</ga> |
-| naoi | <ga ipa="/nˠɪː/">naoi</ga> |
-| nótaí | <ga ipa="/nˠɔːt̪ˠəɪː/">nótaí</ga> |
-| mná | <ga ipa="/mˠnˠaː/">mná</ga> |
-| cnaipe | <ga ipa="/knˠapʲə/">cnaipe</ga> |
-| bean | <ga ipa="/bʲanʲ/">bean</ga> |
-| neart | <ga ipa="/nʲaɾʲtʲ/">neart</ga> |
-| neart | <ga ipa="/nʲaɾʲtʲ/">neart</ga> |
-| gnéas | <ga ipa="/ɟnʲɛːasˠ/">gnéas</ga> |
-| cníopaire | <ga ipa="/cnʲɪːɔpˠəɾʲɛ/">cníopaire</ga> |
-| eoin | <ga ipa="/ɔːnʲ/">eoin</ga> |
-| ancaire | <ga ipa="/anˠkəɾʲɛ/">ancaire</ga> |
-| rinc | <ga ipa="/ɾʲɪnʲc/">rinc</ga> |
-| ndorn | <ga ipa="/nˠɔɾˠnˠ/">ndorn</ga> |
-| ndearg | <ga ipa="/nʲaɾʲɟ/">ndearg</ga> |
-| ngasúr | <ga ipa="/ŋasˠəːɾˠ/">ngasúr</ga> |
-| long | <ga ipa="/lˠɔŋ/">long</ga> |
-| teanga | <ga ipa="/tʲaɲə/">teanga</ga> |
-| ngeata | <ga ipa="/ɲatʲə/">ngeata</ga> |
-| cuing | <ga ipa="/kʊɪɲ/">cuing</ga> |
-| ingear | <ga ipa="/ɪɲəɾʲ/">ingear</ga> |
-| ceann | <ga ipa="/caːn̠ʲ/">ceann</ga> |
-| tinneas | <ga ipa="/tʲɪn̠ʲəʃ/">tinneas</ga> |
-| poll | <ga ipa="/pˠɔl̪ˠ/">poll</ga> |
-| stop | <ga ipa="/sˠt̪ˠɔpˠ/">stop</ga> |
-| príosún | <ga ipa="/pʲɾʲɪːɔsˠʊːnˠ/">príosún</ga> |
-| truip | <ga ipa="/t̪ˠɾˠʊɪpʲ/">truip</ga> |
-| pholl | <ga ipa="/fˠɔl̪ˠ/">pholl</ga> |
-| phríosún | <ga ipa="/fʲɾʲɪːɔsˠʊːnˠ/">phríosún</ga> |
-| ruán | <ga ipa="/ɾˠʊəːnˠ/">ruán</ga> |
-| cumhra | <ga ipa="/kʊwɾˠə/">cumhra</ga> |
-| fuar | <ga ipa="/fˠʊəɾˠ/">fuar</ga> |
-| rí | <ga ipa="/ɾʲɪː/">rí</ga> |
-| airde | <ga ipa="/aːɾʲdʲɛ/">airde</ga> |
-| duirling | <ga ipa="/d̪ˠʊɪɾʲlʲəɲ/">duirling</ga> |
-| coirnéal | <ga ipa="/kɔɪɾʲnʲəːalˠ/">coirnéal</ga> |
-| cuairt | <ga ipa="/kʊəɾʲtʲ/">cuairt</ga> |
-| oirthear | <ga ipa="/ɔɪɾʲhəɾʲ/">oirthear</ga> |
-| sreang | <ga ipa="/ʃɾʲaɲ/">sreang</ga> |
-| tirim | <ga ipa="/tʲɪɾʲəmʲ/">tirim</ga> |
-| fuair | <ga ipa="/fˠʊəɾʲ/">fuair</ga> |
-| sasana | <ga ipa="/sˠasˠənˠa/">sasana</ga> |
-| tús | <ga ipa="/t̪ˠʊːsˠ/">tús</ga> |
-| sféar | <ga ipa="/ʃfʲɛːaɾˠ/">sféar</ga> |
-| speal | <ga ipa="/ʃpʲalʲ/">speal</ga> |
-| sméar | <ga ipa="/ʃmʲɛːaɾˠ/">sméar</ga> |
-| sreang | <ga ipa="/ʃɾʲaɲ/">sreang</ga> |
-| sean | <ga ipa="/ʃanʲ/">sean</ga> |
-| cáis | <ga ipa="/kaːɪʃ/">cáis</ga> |
-| shasana | <ga ipa="/hasˠənˠa/">shasana</ga> |
-| shiúil | <ga ipa="/hɪʊːɪlʲ/">shiúil</ga> |
-| taisce | <ga ipa="/t̪ˠaʃcə/">taisce</ga> |
-| ceart | <ga ipa="/caɾʲtʲ/">ceart</ga> |
-| tír | <ga ipa="/tʲɪːɾʲ/">tír</ga> |
-| beirt | <ga ipa="/bʲɛɾʲtʲ/">beirt</ga> |
-| thuaidh | <ga ipa="/hʊəj/">thuaidh</ga> |
-| thíos | <ga ipa="/hɪːɔsˠ/">thíos</ga> |
-| athair | <ga ipa="/ahəɾʲ/">athair</ga> |
-| coinnithe | <ga ipa="/kɔɪn̠ʲəhə/">coinnithe</ga> |
-| ith | <ga ipa="/ɪh/">ith</ga> |
-| foghlamtha | <ga ipa="/fˠɔɣlˠəmˠha/">foghlamtha</ga> |
-| ruaigthe | <ga ipa="/ɾˠʊəɟhə/">ruaigthe</ga> |
-| scuabtha | <ga ipa="/sˠkʊəbˠhə/">scuabtha</ga> |
-| bláth | <ga ipa="/bˠlˠaːh/">bláth</ga> |
-| cliath | <ga ipa="/clʲɪəh/">cliath</ga> |
-| vóta | <ga ipa="/vˠɔːt̪ˠə/">vóta</ga> |
-| veidhlín | <ga ipa="/vʲɛjlʲɪːnʲ/">veidhlín</ga> |
-| zú | <ga ipa="/zʊː/">zú</ga> |
-| zen | <ga ipa="/zɛnʲ/">zen</ga> |
-| fan | <ga ipa="/fˠanˠ/">fan</ga> |
-| bean | <ga ipa="/bʲanʲ/">bean</ga> |
-| garda | <ga ipa="/ɡaːɾˠd̪ˠə/">garda</ga> |
-| tarlú | <ga ipa="/t̪ˠaɾˠlˠəː/">tarlú</ga> |
-| bearna | <ga ipa="/bʲaɾʲnʲə/">bearna</ga> |
-| fearr | <ga ipa="/fʲaɾʲ/">fearr</ga> |
-| mall | <ga ipa="/mˠaːl̪ˠ/">mall</ga> |
-| ann | <ga ipa="/aːn̪ˠ/">ann</ga> |
-| am | <ga ipa="/aːmˠ/">am</ga> |
-| feanntach | <ga ipa="/fʲaːn̠ʲtʲəx/">feanntach</ga> |
-| ólann | <ga ipa="/ɔːlˠən̪ˠ/">ólann</ga> |
-| mála | <ga ipa="/mˠaːlˠa/">mála</ga> |
-| seisean | <ga ipa="/ʃɛʃanʲ/">seisean</ga> |
-| domhnach | <ga ipa="/d̪ˠɔwnˠəx/">domhnach</ga> |
-| taoiseach | <ga ipa="/t̪ˠɪːʃaç/">taoiseach</ga> |
-| bán | <ga ipa="/bˠaːnˠ/">bán</ga> |
-| dáil | <ga ipa="/d̪ˠaːɪlʲ/">dáil</ga> |
-| gabháil | <ga ipa="/ɡawəːɪlʲ/">gabháil</ga> |
-| gaelach | <ga ipa="/ɡɛːlʲax/">gaelach</ga> |
-| gaeilge | <ga ipa="/ɟɛːlʲɟɛ/">gaeilge</ga> |
-| baile | <ga ipa="/bˠalʲə/">baile</ga> |
-| veain | <ga ipa="/vʲanʲ/">veain</ga> |
-| airne | <ga ipa="/aɾʲnʲə/">airne</ga> |
-| airde | <ga ipa="/aːɾʲdʲɛ/">airde</ga> |
-| caillte | <ga ipa="/kaːl̠ʲtʲɛ/">caillte</ga> |
-| crainn | <ga ipa="/kɾˠaːn̠ʲ/">crainn</ga> |
-| eolais | <ga ipa="/ɔːlʲəʃ/">eolais</ga> |
-| maígh | <ga ipa="/mˠaɪːj/">maígh</ga> |
-| gutaí | <ga ipa="/ɡʊt̪ˠəɪː/">gutaí</ga> |
-| naíonán | <ga ipa="/nˠaɪːɔnˠəːnˠ/">naíonán</ga> |
-| beannaíonn | <ga ipa="/bʲaːn̠ʲəɪːɔn̪ˠ/">beannaíonn</ga> |
-| saol | <ga ipa="/sˠɪːlˠ/">saol</ga> |
-| gaois | <ga ipa="/ɡɪːʃ/">gaois</ga> |
-| naoi | <ga ipa="/nˠɪː/">naoi</ga> |
-| te | <ga ipa="/tʲɛ/">te</ga> |
-| ceist | <ga ipa="/cɛʃtʲ/">ceist</ga> |
-| eirleach | <ga ipa="/ɛɾʲlʲaç/">eirleach</ga> |
-| ceirnín | <ga ipa="/cɛɾʲnʲɪːnʲ/">ceirnín</ga> |
-| ceird | <ga ipa="/cɛɾʲdʲ/">ceird</ga> |
-| creimeadh | <ga ipa="/cɾʲɛmʲaj/">creimeadh</ga> |
-| sceimhle | <ga ipa="/ʃcɛvʲlʲɛ/">sceimhle</ga> |
-| seinm | <ga ipa="/ʃɛnʲmʲ/">seinm</ga> |
-| greim | <ga ipa="/ɟɾʲɛmʲ/">greim</ga> |
-| míle | <ga ipa="/mʲɪːlʲə/">míle</ga> |
-| sé | <ga ipa="/ʃɛː/">sé</ga> |
-| déanamh | <ga ipa="/dʲɛːanˠəw/">déanamh</ga> |
-| buidéal | <ga ipa="/bˠʊɪdʲəːalˠ/">buidéal</ga> |
-| scéimh | <ga ipa="/ʃcɛːvʲ/">scéimh</ga> |
-| páipéir | <ga ipa="/pˠaːɪpʲəːɾʲ/">páipéir</ga> |
-| seán | <ga ipa="/ʃaːnˠ/">seán</ga> |
-| caisleán | <ga ipa="/kaʃlʲəːnˠ/">caisleán</ga> |
-| meáin | <ga ipa="/mʲaːɪnʲ/">meáin</ga> |
-| caisleáin | <ga ipa="/kaʃlʲəːɪnʲ/">caisleáin</ga> |
-| ceol | <ga ipa="/cɔːlʲ/">ceol</ga> |
-| dreoilín | <ga ipa="/dʲɾʲɔːlʲɪːnʲ/">dreoilín</ga> |
-| pic | <ga ipa="/pʲɪc/">pic</ga> |
-| ifreann | <ga ipa="/ɪfʲɾʲəːn̠ʲ/">ifreann</ga> |
-| cill | <ga ipa="/cɪl̠ʲ/">cill</ga> |
-| cinnte | <ga ipa="/cɪn̠ʲtʲə/">cinnte</ga> |
-| im | <ga ipa="/ɪmʲ/">im</ga> |
-| faoistin | <ga ipa="/fˠɪːʃtʲɪnʲ/">faoistin</ga> |
-| gnímh | <ga ipa="/ɟnʲɪːvʲ/">gnímh</ga> |
-| cailín | <ga ipa="/kalʲəːnʲ/">cailín</ga> |
-| síol | <ga ipa="/ʃɪːɔlˠ/">síol</ga> |
-| diarmaid | <ga ipa="/dʲɪəɾʲmʲədʲ/">diarmaid</ga> |
-| bliain | <ga ipa="/bʲlʲɪənʲ/">bliain</ga> |
-| bián | <ga ipa="/bʲɪəːnˠ/">bián</ga> |
-| liáin | <ga ipa="/lʲɪəːɪnʲ/">liáin</ga> |
-| siopa | <ga ipa="/ʃʊpˠə/">siopa</ga> |
-| liom | <ga ipa="/lʲʊmˠ/">liom</ga> |
-| tiocfaidh | <ga ipa="/tʲʊkfˠəj/">tiocfaidh</ga> |
-| siobhán | <ga ipa="/ʃʊwəːnˠ/">siobhán</ga> |
-| ionga | <ga ipa="/ʊŋə/">ionga</ga> |
-| fios | <ga ipa="/fʲʊsˠ/">fios</ga> |
-| bior | <ga ipa="/bʲʊɾˠ/">bior</ga> |
-| cion | <ga ipa="/cʊnˠ/">cion</ga> |
-| giota | <ga ipa="/ɟʊt̪ˠə/">giota</ga> |
-| friotháil | <ga ipa="/fʲɾʲʊhəːɪlʲ/">friotháil</ga> |
-| fionn | <ga ipa="/fʲʊn̪ˠ/">fionn</ga> |
-| sióg | <ga ipa="/ʃɪɔːɡ/">sióg</ga> |
-| pióg | <ga ipa="/pʲɪɔːɡ/">pióg</ga> |
-| grióir | <ga ipa="/ɟɾʲɪɔːɪɾʲ/">grióir</ga> |
-| fliuch | <ga ipa="/fʲlʲʊç/">fliuch</ga> |
-| siúl | <ga ipa="/ʃɪʊːlˠ/">siúl</ga> |
-| bailiú | <ga ipa="/bˠalʲəʊː/">bailiú</ga> |
-| ciúin | <ga ipa="/cɪʊːɪnʲ/">ciúin</ga> |
-| inniúil | <ga ipa="/ɪn̠ʲəʊːɪlʲ/">inniúil</ga> |
-| post | <ga ipa="/pˠɔsˠt̪ˠ/">post</ga> |
-| bord | <ga ipa="/bˠɔɾˠd̪ˠ/">bord</ga> |
-| orlach | <ga ipa="/ɔɾˠlˠəx/">orlach</ga> |
-| conradh | <ga ipa="/kɔnˠɾˠəɣ/">conradh</ga> |
-| cromóg | <ga ipa="/kɾˠɔmˠəːɡ/">cromóg</ga> |
-| fonn | <ga ipa="/fˠɔn̪ˠ/">fonn</ga> |
-| trom | <ga ipa="/t̪ˠɾˠɔmˠ/">trom</ga> |
-| long | <ga ipa="/lˠɔŋ/">long</ga> |
-| mo | <ga ipa="/mˠɔ/">mo</ga> |
-| cothrom | <ga ipa="/kɔhɾˠəmˠ/">cothrom</ga> |
-| póg | <ga ipa="/pˠɔːɡ/">póg</ga> |
-| armónach | <ga ipa="/aɾˠmˠəːnˠəx/">armónach</ga> |
-| móin | <ga ipa="/mˠɔːɪnʲ/">móin</ga> |
-| bádóir | <ga ipa="/bˠaːd̪ˠɔːɪɾʲ/">bádóir</ga> |
-| scoil | <ga ipa="/sˠkɔɪlʲ/">scoil</ga> |
-| troid | <ga ipa="/t̪ˠɾˠɔɪdʲ/">troid</ga> |
-| toitín | <ga ipa="/t̪ˠɔɪtʲəːnʲ/">toitín</ga> |
-| oibre | <ga ipa="/ɔɪbʲɾʲə/">oibre</ga> |
-| thoir | <ga ipa="/hɔɪɾʲ/">thoir</ga> |
-| cloiche | <ga ipa="/klˠɔɪçə/">cloiche</ga> |
-| cois | <ga ipa="/kɔɪʃ/">cois</ga> |
-| cloisfidh | <ga ipa="/klˠɔɪʃfʲəj/">cloisfidh</ga> |
-| boicht | <ga ipa="/bˠɔɪçtʲ/">boicht</ga> |
-| doirse | <ga ipa="/d̪ˠɔɪɾʲʃə/">doirse</ga> |
-| goirt | <ga ipa="/ɡɔɪɾʲtʲ/">goirt</ga> |
-| oirthear | <ga ipa="/ɔɪɾʲhəɾʲ/">oirthear</ga> |
-| coirnéal | <ga ipa="/kɔɪɾʲnʲəːalˠ/">coirnéal</ga> |
-| oird | <ga ipa="/ɔɪɾʲdʲ/">oird</ga> |
-| anois | <ga ipa="/anˠəɪʃ/">anois</ga> |
-| gloine | <ga ipa="/ɡlˠɔɪnʲə/">gloine</ga> |
-| cnoic | <ga ipa="/knˠɔɪc/">cnoic</ga> |
-| roimh | <ga ipa="/ɾˠɔɪvʲ/">roimh</ga> |
-| coimeád | <ga ipa="/kɔɪmʲəːd̪ˠ/">coimeád</ga> |
-| loinge | <ga ipa="/lˠɔɪɲə/">loinge</ga> |
-| foinn | <ga ipa="/fˠɔɪn̠ʲ/">foinn</ga> |
-| droim | <ga ipa="/d̪ˠɾˠɔɪmʲ/">droim</ga> |
-| goill | <ga ipa="/ɡɔɪl̠ʲ/">goill</ga> |
-| coillte | <ga ipa="/kɔɪl̠ʲtʲə/">coillte</ga> |
-| éadroime | <ga ipa="/ɛːad̪ˠɾˠəɪmʲə/">éadroime</ga> |
-| croíleacán | <ga ipa="/kɾˠɔɪːlʲəcəːnˠ/">croíleacán</ga> |
-| croíonna | <ga ipa="/kɾˠɔɪːɔn̪ˠə/">croíonna</ga> |
-| dubh | <ga ipa="/d̪ˠʊw/">dubh</ga> |
-| burla | <ga ipa="/bˠʊɾˠlˠə/">burla</ga> |
-| murnán | <ga ipa="/mˠʊɾˠnˠəːnˠ/">murnán</ga> |
-| agus | <ga ipa="/aɡəsˠ/">agus</ga> |
-| tús | <ga ipa="/t̪ˠʊːsˠ/">tús</ga> |
-| súil | <ga ipa="/sˠʊːɪlʲ/">súil</ga> |
-| cosúil | <ga ipa="/kɔsˠʊːɪlʲ/">cosúil</ga> |
-| fuar | <ga ipa="/fˠʊəɾˠ/">fuar</ga> |
-| fuair | <ga ipa="/fˠʊəɾʲ/">fuair</ga> |
-| ruán | <ga ipa="/ɾˠʊəːnˠ/">ruán</ga> |
-| duán | <ga ipa="/d̪ˠʊəːnˠ/">duán</ga> |
-| fuáil | <ga ipa="/fˠʊəːɪlʲ/">fuáil</ga> |
-| duine | <ga ipa="/d̪ˠʊɪnʲə/">duine</ga> |
-| duirling | <ga ipa="/d̪ˠʊɪɾʲlʲəɲ/">duirling</ga> |
-| tuirne | <ga ipa="/t̪ˠʊɪɾʲnʲə/">tuirne</ga> |
-| aguisín | <ga ipa="/aɡəɪʃəːnʲ/">aguisín</ga> |
-| buígh | <ga ipa="/bˠʊɪːj/">buígh</ga> |
-| buíon | <ga ipa="/bˠʊɪːɔnˠ/">buíon</ga> |
-| cruóg | <ga ipa="/kɾˠʊɔːɡ/">cruóg</ga> |
-| luóige | <ga ipa="/lˠʊɔːɪɟə/">luóige</ga> |
-| feabhra | <ga ipa="/fʲavʲɾʲə/">feabhra</ga> |
-| leabhair | <ga ipa="/lʲavʲəɾʲ/">leabhair</ga> |
-| sabhall | <ga ipa="/sˠawəl̪ˠ/">sabhall</ga> |
-| meadhg | <ga ipa="/mʲajɟ/">meadhg</ga> |
-| adharc | <ga ipa="/aɣəɾˠk/">adharc</ga> |
-| adhairt | <ga ipa="/aɣəɾʲtʲ/">adhairt</ga> |
-| saghsanna | <ga ipa="/sˠaɣsˠən̪ˠa/">saghsanna</ga> |
-| deagha | <ga ipa="/dʲajə/">deagha</ga> |
-| aghaidh | <ga ipa="/aɣəj/">aghaidh</ga> |
-| margadh | <ga ipa="/mˠaɾˠɡəɣ/">margadh</ga> |
-| briseadh | <ga ipa="/bʲɾʲɪʃəj/">briseadh</ga> |
-| aidhleann | <ga ipa="/ajlʲəːn̠ʲ/">aidhleann</ga> |
-| aidhe | <ga ipa="/ajə/">aidhe</ga> |
-| aighneas | <ga ipa="/ajnʲəʃ/">aighneas</ga> |
-| aighe | <ga ipa="/ajə/">aighe</ga> |
-| caighean | <ga ipa="/kajənʲ/">caighean</ga> |
-| bacaigh | <ga ipa="/bˠakəj/">bacaigh</ga> |
-| ramhraigh | <ga ipa="/ɾˠawɾˠəj/">ramhraigh</ga> |
-| amhantar | <ga ipa="/awənˠt̪ˠaɾˠ/">amhantar</ga> |
-| acadamh | <ga ipa="/akəd̪ˠaw/">acadamh</ga> |
-| creideamh | <ga ipa="/cɾʲɛdʲavʲ/">creideamh</ga> |
-| feidhm | <ga ipa="/fʲɛjmʲ/">feidhm</ga> |
-| eidheann | <ga ipa="/ɛjaːn̠ʲ/">eidheann</ga> |
-| feighlí | <ga ipa="/fʲɛjlʲɪː/">feighlí</ga> |
-| leigheas | <ga ipa="/lʲɛjaʃ/">leigheas</ga> |
-| ligh | <ga ipa="/lʲɪj/">ligh</ga> |
-| guigh | <ga ipa="/ɡʊɪj/">guigh</ga> |
-| tuillidh | <ga ipa="/t̪ˠʊɪl̠ʲəj/">tuillidh</ga> |
-| oidhre | <ga ipa="/ɔɪjɾʲə/">oidhre</ga> |
-| oidheanna | <ga ipa="/ɔɪjəːn̠ʲə/">oidheanna</ga> |
-| oigheann | <ga ipa="/ɔɪjəːn̠ʲ/">oigheann</ga> |
-| loighic | <ga ipa="/lˠɔɪjəc/">loighic</ga> |
-| lobhra | <ga ipa="/lˠɔwɾˠə/">lobhra</ga> |
-| bodhar | <ga ipa="/bˠɔɣəɾˠ/">bodhar</ga> |
-| doghra | <ga ipa="/d̪ˠɔɣɾˠə/">doghra</ga> |
-| domhnach | <ga ipa="/d̪ˠɔwnˠəx/">domhnach</ga> |
-| comhar | <ga ipa="/kɔwəɾˠ/">comhar</ga> |
-| domhain | <ga ipa="/d̪ˠɔwənʲ/">domhain</ga> |
-| dubh | <ga ipa="/d̪ˠʊw/">dubh</ga> |
-| tiubh | <ga ipa="/tʲʊvʲ/">tiubh</ga> |
-| cumhra | <ga ipa="/kʊwɾˠə/">cumhra</ga> |
-| mumhan | <ga ipa="/mˠʊwənˠ/">mumhan</ga> |
-| ciumhais | <ga ipa="/cʊvʲəʃ/">ciumhais</ga> |
-| beannóidh | <ga ipa="/bʲaːn̠ʲɔːɪj/">beannóidh</ga> |
-| bheannóinn | <ga ipa="/vʲaːn̠ʲɔːɪn̠ʲ/">bheannóinn</ga> |
-| dhófadh | <ga ipa="/ɣɔːfˠəɣ/">dhófadh</ga> |
-| déarfaidh | <ga ipa="/dʲɛːaɾˠfˠəj/">déarfaidh</ga> |
-| molaim | <ga ipa="/mˠɔlˠəmʲ/">molaim</ga> |
+| cuinín | <span class="ga-word">cuinín<span class="ga-tooltip">/kʊɪnʲəːnʲ/</span></span> |
+| bain | <span class="ga-word">bain<span class="ga-tooltip">/bˠanʲ/</span></span> |
+| scuab | <span class="ga-word">scuab<span class="ga-tooltip">/sˠkʊəbˠ/</span></span> |
+| béal | <span class="ga-word">béal<span class="ga-tooltip">/bʲɛːalˠ/</span></span> |
+| cnáib | <span class="ga-word">cnáib<span class="ga-tooltip">/knˠaːɪbʲ/</span></span> |
+| bhain | <span class="ga-word">bhain<span class="ga-tooltip">/wanʲ/</span></span> |
+| ábhar | <span class="ga-word">ábhar<span class="ga-tooltip">/aːwaɾˠ/</span></span> |
+| dubhaigh | <span class="ga-word">dubhaigh<span class="ga-tooltip">/d̪ˠʊwəj/</span></span> |
+| taobh | <span class="ga-word">taobh<span class="ga-tooltip">/t̪ˠɪːw/</span></span> |
+| dubh | <span class="ga-word">dubh<span class="ga-tooltip">/d̪ˠʊw/</span></span> |
+| bhéal | <span class="ga-word">bhéal<span class="ga-tooltip">/vʲɛːalˠ/</span></span> |
+| cuibhreann | <span class="ga-word">cuibhreann<span class="ga-tooltip">/kʊɪvʲɾʲəːn̠ʲ/</span></span> |
+| aibhneacha | <span class="ga-word">aibhneacha<span class="ga-tooltip">/avʲnʲəçə/</span></span> |
+| sibh | <span class="ga-word">sibh<span class="ga-tooltip">/ʃɪvʲ/</span></span> |
+| bhfuinneog | <span class="ga-word">bhfuinneog<span class="ga-tooltip">/wʊɪn̠ʲɔːɟ/</span></span> |
+| bhfíon | <span class="ga-word">bhfíon<span class="ga-tooltip">/vʲɪːɔnˠ/</span></span> |
+| bpoll | <span class="ga-word">bpoll<span class="ga-tooltip">/bˠɔl̪ˠ/</span></span> |
+| bpríosún | <span class="ga-word">bpríosún<span class="ga-tooltip">/bʲɾʲɪːɔsˠʊːnˠ/</span></span> |
+| cáis | <span class="ga-word">cáis<span class="ga-tooltip">/kaːɪʃ/</span></span> |
+| mac | <span class="ga-word">mac<span class="ga-tooltip">/mˠak/</span></span> |
+| ceist | <span class="ga-word">ceist<span class="ga-tooltip">/cɛʃtʲ/</span></span> |
+| mic | <span class="ga-word">mic<span class="ga-tooltip">/mʲɪc/</span></span> |
+| cháis | <span class="ga-word">cháis<span class="ga-tooltip">/xaːɪʃ/</span></span> |
+| taoiseach | <span class="ga-word">taoiseach<span class="ga-tooltip">/t̪ˠɪːʃaç/</span></span> |
+| boichte | <span class="ga-word">boichte<span class="ga-tooltip">/bˠɔɪçtʲə/</span></span> |
+| cheist | <span class="ga-word">cheist<span class="ga-tooltip">/çɛʃtʲ/</span></span> |
+| deich | <span class="ga-word">deich<span class="ga-tooltip">/dʲɛç/</span></span> |
+| oíche | <span class="ga-word">oíche<span class="ga-tooltip">/ɔɪːçə/</span></span> |
+| dorn | <span class="ga-word">dorn<span class="ga-tooltip">/d̪ˠɔɾˠnˠ/</span></span> |
+| nead | <span class="ga-word">nead<span class="ga-tooltip">/nʲadʲ/</span></span> |
+| dearg | <span class="ga-word">dearg<span class="ga-tooltip">/dʲaɾʲɟ/</span></span> |
+| cuid | <span class="ga-word">cuid<span class="ga-tooltip">/kʊɪdʲ/</span></span> |
+| dhorn | <span class="ga-word">dhorn<span class="ga-tooltip">/ɣɔɾˠnˠ/</span></span> |
+| ádh | <span class="ga-word">ádh<span class="ga-tooltip">/aːɣ/</span></span> |
+| dhearg | <span class="ga-word">dhearg<span class="ga-tooltip">/jaɾʲɟ/</span></span> |
+| fáidh | <span class="ga-word">fáidh<span class="ga-tooltip">/fˠaːɪj/</span></span> |
+| dtaisce | <span class="ga-word">dtaisce<span class="ga-tooltip">/d̪ˠaʃcə/</span></span> |
+| greadta | <span class="ga-word">greadta<span class="ga-tooltip">/ɟɾʲadʲtʲə/</span></span> |
+| dtír | <span class="ga-word">dtír<span class="ga-tooltip">/dʲɪːɾʲ/</span></span> |
+| goidte | <span class="ga-word">goidte<span class="ga-tooltip">/ɡɔɪdʲtʲə/</span></span> |
+| fós | <span class="ga-word">fós<span class="ga-tooltip">/fˠɔːsˠ/</span></span> |
+| graf | <span class="ga-word">graf<span class="ga-tooltip">/ɡɾˠafˠ/</span></span> |
+| fíon | <span class="ga-word">fíon<span class="ga-tooltip">/fʲɪːɔnˠ/</span></span> |
+| stuif | <span class="ga-word">stuif<span class="ga-tooltip">/sˠt̪ˠʊɪfʲ/</span></span> |
+| fhuinneog | <span class="ga-word">fhuinneog<span class="ga-tooltip">/ʊɪn̠ʲɔːɟ/</span></span> |
+| fhíon | <span class="ga-word">fhíon<span class="ga-tooltip">/ɪːɔnˠ/</span></span> |
+| gasúr | <span class="ga-word">gasúr<span class="ga-tooltip">/ɡasˠəːɾˠ/</span></span> |
+| bog | <span class="ga-word">bog<span class="ga-tooltip">/bˠɔɡ/</span></span> |
+| geata | <span class="ga-word">geata<span class="ga-tooltip">/ɟatʲə/</span></span> |
+| carraig | <span class="ga-word">carraig<span class="ga-tooltip">/kaɾˠəɟ/</span></span> |
+| gcáis | <span class="ga-word">gcáis<span class="ga-tooltip">/ɡaːɪʃ/</span></span> |
+| gceist | <span class="ga-word">gceist<span class="ga-tooltip">/ɟɛʃtʲ/</span></span> |
+| ghasúr | <span class="ga-word">ghasúr<span class="ga-tooltip">/ɣasˠəːɾˠ/</span></span> |
+| eoghan | <span class="ga-word">eoghan<span class="ga-tooltip">/ɔːjənˠ/</span></span> |
+| gheata | <span class="ga-word">gheata<span class="ga-tooltip">/jatʲə/</span></span> |
+| dóigh | <span class="ga-word">dóigh<span class="ga-tooltip">/d̪ˠɔːɪj/</span></span> |
+| hata | <span class="ga-word">hata<span class="ga-tooltip">/hˠat̪ˠə/</span></span> |
+| jab | <span class="ga-word">jab<span class="ga-tooltip">/jabˠ/</span></span> |
+| jíp | <span class="ga-word">jíp<span class="ga-tooltip">/jɪːpʲ/</span></span> |
+| luí | <span class="ga-word">luí<span class="ga-tooltip">/lˠʊɪː/</span></span> |
+| lann | <span class="ga-word">lann<span class="ga-tooltip">/lˠaːn̪ˠ/</span></span> |
+| béal | <span class="ga-word">béal<span class="ga-tooltip">/bʲɛːalˠ/</span></span> |
+| leisciúil | <span class="ga-word">leisciúil<span class="ga-tooltip">/lʲɛʃcɪʊːɪlʲ/</span></span> |
+| leanbh | <span class="ga-word">leanbh<span class="ga-tooltip">/lʲanʲvʲ/</span></span> |
+| siúil | <span class="ga-word">siúil<span class="ga-tooltip">/ʃɪʊːɪlʲ/</span></span> |
+| mór | <span class="ga-word">mór<span class="ga-tooltip">/mˠɔːɾˠ/</span></span> |
+| am | <span class="ga-word">am<span class="ga-tooltip">/aːmˠ/</span></span> |
+| milis | <span class="ga-word">milis<span class="ga-tooltip">/mʲɪlʲəʃ/</span></span> |
+| im | <span class="ga-word">im<span class="ga-tooltip">/ɪmʲ/</span></span> |
+| mbaineann | <span class="ga-word">mbaineann<span class="ga-tooltip">/mˠanʲəːn̠ʲ/</span></span> |
+| mbéal | <span class="ga-word">mbéal<span class="ga-tooltip">/mʲɛːalˠ/</span></span> |
+| mhór | <span class="ga-word">mhór<span class="ga-tooltip">/wɔːɾˠ/</span></span> |
+| lámha | <span class="ga-word">lámha<span class="ga-tooltip">/lˠaːwa/</span></span> |
+| léamh | <span class="ga-word">léamh<span class="ga-tooltip">/lʲɛːaw/</span></span> |
+| mhilis | <span class="ga-word">mhilis<span class="ga-tooltip">/vʲɪlʲəʃ/</span></span> |
+| uimhir | <span class="ga-word">uimhir<span class="ga-tooltip">/ʊɪvʲəɾʲ/</span></span> |
+| nimh | <span class="ga-word">nimh<span class="ga-tooltip">/nʲɪvʲ/</span></span> |
+| naoi | <span class="ga-word">naoi<span class="ga-tooltip">/nˠɪː/</span></span> |
+| nótaí | <span class="ga-word">nótaí<span class="ga-tooltip">/nˠɔːt̪ˠəɪː/</span></span> |
+| mná | <span class="ga-word">mná<span class="ga-tooltip">/mˠnˠaː/</span></span> |
+| cnaipe | <span class="ga-word">cnaipe<span class="ga-tooltip">/knˠapʲə/</span></span> |
+| bean | <span class="ga-word">bean<span class="ga-tooltip">/bʲanʲ/</span></span> |
+| neart | <span class="ga-word">neart<span class="ga-tooltip">/nʲaɾʲtʲ/</span></span> |
+| neart | <span class="ga-word">neart<span class="ga-tooltip">/nʲaɾʲtʲ/</span></span> |
+| gnéas | <span class="ga-word">gnéas<span class="ga-tooltip">/ɟnʲɛːasˠ/</span></span> |
+| cníopaire | <span class="ga-word">cníopaire<span class="ga-tooltip">/cnʲɪːɔpˠəɾʲɛ/</span></span> |
+| eoin | <span class="ga-word">eoin<span class="ga-tooltip">/ɔːnʲ/</span></span> |
+| ancaire | <span class="ga-word">ancaire<span class="ga-tooltip">/anˠkəɾʲɛ/</span></span> |
+| rinc | <span class="ga-word">rinc<span class="ga-tooltip">/ɾʲɪnʲc/</span></span> |
+| ndorn | <span class="ga-word">ndorn<span class="ga-tooltip">/nˠɔɾˠnˠ/</span></span> |
+| ndearg | <span class="ga-word">ndearg<span class="ga-tooltip">/nʲaɾʲɟ/</span></span> |
+| ngasúr | <span class="ga-word">ngasúr<span class="ga-tooltip">/ŋasˠəːɾˠ/</span></span> |
+| long | <span class="ga-word">long<span class="ga-tooltip">/lˠɔŋ/</span></span> |
+| teanga | <span class="ga-word">teanga<span class="ga-tooltip">/tʲaɲə/</span></span> |
+| ngeata | <span class="ga-word">ngeata<span class="ga-tooltip">/ɲatʲə/</span></span> |
+| cuing | <span class="ga-word">cuing<span class="ga-tooltip">/kʊɪɲ/</span></span> |
+| ingear | <span class="ga-word">ingear<span class="ga-tooltip">/ɪɲəɾʲ/</span></span> |
+| ceann | <span class="ga-word">ceann<span class="ga-tooltip">/caːn̠ʲ/</span></span> |
+| tinneas | <span class="ga-word">tinneas<span class="ga-tooltip">/tʲɪn̠ʲəʃ/</span></span> |
+| poll | <span class="ga-word">poll<span class="ga-tooltip">/pˠɔl̪ˠ/</span></span> |
+| stop | <span class="ga-word">stop<span class="ga-tooltip">/sˠt̪ˠɔpˠ/</span></span> |
+| príosún | <span class="ga-word">príosún<span class="ga-tooltip">/pʲɾʲɪːɔsˠʊːnˠ/</span></span> |
+| truip | <span class="ga-word">truip<span class="ga-tooltip">/t̪ˠɾˠʊɪpʲ/</span></span> |
+| pholl | <span class="ga-word">pholl<span class="ga-tooltip">/fˠɔl̪ˠ/</span></span> |
+| phríosún | <span class="ga-word">phríosún<span class="ga-tooltip">/fʲɾʲɪːɔsˠʊːnˠ/</span></span> |
+| ruán | <span class="ga-word">ruán<span class="ga-tooltip">/ɾˠʊəːnˠ/</span></span> |
+| cumhra | <span class="ga-word">cumhra<span class="ga-tooltip">/kʊwɾˠə/</span></span> |
+| fuar | <span class="ga-word">fuar<span class="ga-tooltip">/fˠʊəɾˠ/</span></span> |
+| rí | <span class="ga-word">rí<span class="ga-tooltip">/ɾʲɪː/</span></span> |
+| airde | <span class="ga-word">airde<span class="ga-tooltip">/aːɾʲdʲɛ/</span></span> |
+| duirling | <span class="ga-word">duirling<span class="ga-tooltip">/d̪ˠʊɪɾʲlʲəɲ/</span></span> |
+| coirnéal | <span class="ga-word">coirnéal<span class="ga-tooltip">/kɔɪɾʲnʲəːalˠ/</span></span> |
+| cuairt | <span class="ga-word">cuairt<span class="ga-tooltip">/kʊəɾʲtʲ/</span></span> |
+| oirthear | <span class="ga-word">oirthear<span class="ga-tooltip">/ɔɪɾʲhəɾʲ/</span></span> |
+| sreang | <span class="ga-word">sreang<span class="ga-tooltip">/ʃɾʲaɲ/</span></span> |
+| tirim | <span class="ga-word">tirim<span class="ga-tooltip">/tʲɪɾʲəmʲ/</span></span> |
+| fuair | <span class="ga-word">fuair<span class="ga-tooltip">/fˠʊəɾʲ/</span></span> |
+| sasana | <span class="ga-word">sasana<span class="ga-tooltip">/sˠasˠənˠa/</span></span> |
+| tús | <span class="ga-word">tús<span class="ga-tooltip">/t̪ˠʊːsˠ/</span></span> |
+| sféar | <span class="ga-word">sféar<span class="ga-tooltip">/ʃfʲɛːaɾˠ/</span></span> |
+| speal | <span class="ga-word">speal<span class="ga-tooltip">/ʃpʲalʲ/</span></span> |
+| sméar | <span class="ga-word">sméar<span class="ga-tooltip">/ʃmʲɛːaɾˠ/</span></span> |
+| sreang | <span class="ga-word">sreang<span class="ga-tooltip">/ʃɾʲaɲ/</span></span> |
+| sean | <span class="ga-word">sean<span class="ga-tooltip">/ʃanʲ/</span></span> |
+| cáis | <span class="ga-word">cáis<span class="ga-tooltip">/kaːɪʃ/</span></span> |
+| shasana | <span class="ga-word">shasana<span class="ga-tooltip">/hasˠənˠa/</span></span> |
+| shiúil | <span class="ga-word">shiúil<span class="ga-tooltip">/hɪʊːɪlʲ/</span></span> |
+| taisce | <span class="ga-word">taisce<span class="ga-tooltip">/t̪ˠaʃcə/</span></span> |
+| ceart | <span class="ga-word">ceart<span class="ga-tooltip">/caɾʲtʲ/</span></span> |
+| tír | <span class="ga-word">tír<span class="ga-tooltip">/tʲɪːɾʲ/</span></span> |
+| beirt | <span class="ga-word">beirt<span class="ga-tooltip">/bʲɛɾʲtʲ/</span></span> |
+| thuaidh | <span class="ga-word">thuaidh<span class="ga-tooltip">/hʊəj/</span></span> |
+| thíos | <span class="ga-word">thíos<span class="ga-tooltip">/hɪːɔsˠ/</span></span> |
+| athair | <span class="ga-word">athair<span class="ga-tooltip">/ahəɾʲ/</span></span> |
+| coinnithe | <span class="ga-word">coinnithe<span class="ga-tooltip">/kɔɪn̠ʲəhə/</span></span> |
+| ith | <span class="ga-word">ith<span class="ga-tooltip">/ɪh/</span></span> |
+| foghlamtha | <span class="ga-word">foghlamtha<span class="ga-tooltip">/fˠɔɣlˠəmˠha/</span></span> |
+| ruaigthe | <span class="ga-word">ruaigthe<span class="ga-tooltip">/ɾˠʊəɟhə/</span></span> |
+| scuabtha | <span class="ga-word">scuabtha<span class="ga-tooltip">/sˠkʊəbˠhə/</span></span> |
+| bláth | <span class="ga-word">bláth<span class="ga-tooltip">/bˠlˠaːh/</span></span> |
+| cliath | <span class="ga-word">cliath<span class="ga-tooltip">/clʲɪəh/</span></span> |
+| vóta | <span class="ga-word">vóta<span class="ga-tooltip">/vˠɔːt̪ˠə/</span></span> |
+| veidhlín | <span class="ga-word">veidhlín<span class="ga-tooltip">/vʲɛjlʲɪːnʲ/</span></span> |
+| zú | <span class="ga-word">zú<span class="ga-tooltip">/zʊː/</span></span> |
+| zen | <span class="ga-word">zen<span class="ga-tooltip">/zɛnʲ/</span></span> |
+| fan | <span class="ga-word">fan<span class="ga-tooltip">/fˠanˠ/</span></span> |
+| bean | <span class="ga-word">bean<span class="ga-tooltip">/bʲanʲ/</span></span> |
+| garda | <span class="ga-word">garda<span class="ga-tooltip">/ɡaːɾˠd̪ˠə/</span></span> |
+| tarlú | <span class="ga-word">tarlú<span class="ga-tooltip">/t̪ˠaɾˠlˠəː/</span></span> |
+| bearna | <span class="ga-word">bearna<span class="ga-tooltip">/bʲaɾʲnʲə/</span></span> |
+| fearr | <span class="ga-word">fearr<span class="ga-tooltip">/fʲaɾʲ/</span></span> |
+| mall | <span class="ga-word">mall<span class="ga-tooltip">/mˠaːl̪ˠ/</span></span> |
+| ann | <span class="ga-word">ann<span class="ga-tooltip">/aːn̪ˠ/</span></span> |
+| am | <span class="ga-word">am<span class="ga-tooltip">/aːmˠ/</span></span> |
+| feanntach | <span class="ga-word">feanntach<span class="ga-tooltip">/fʲaːn̠ʲtʲəx/</span></span> |
+| ólann | <span class="ga-word">ólann<span class="ga-tooltip">/ɔːlˠən̪ˠ/</span></span> |
+| mála | <span class="ga-word">mála<span class="ga-tooltip">/mˠaːlˠa/</span></span> |
+| seisean | <span class="ga-word">seisean<span class="ga-tooltip">/ʃɛʃanʲ/</span></span> |
+| domhnach | <span class="ga-word">domhnach<span class="ga-tooltip">/d̪ˠɔwnˠəx/</span></span> |
+| taoiseach | <span class="ga-word">taoiseach<span class="ga-tooltip">/t̪ˠɪːʃaç/</span></span> |
+| bán | <span class="ga-word">bán<span class="ga-tooltip">/bˠaːnˠ/</span></span> |
+| dáil | <span class="ga-word">dáil<span class="ga-tooltip">/d̪ˠaːɪlʲ/</span></span> |
+| gabháil | <span class="ga-word">gabháil<span class="ga-tooltip">/ɡawəːɪlʲ/</span></span> |
+| gaelach | <span class="ga-word">gaelach<span class="ga-tooltip">/ɡɛːlʲax/</span></span> |
+| gaeilge | <span class="ga-word">gaeilge<span class="ga-tooltip">/ɟɛːlʲɟɛ/</span></span> |
+| baile | <span class="ga-word">baile<span class="ga-tooltip">/bˠalʲə/</span></span> |
+| veain | <span class="ga-word">veain<span class="ga-tooltip">/vʲanʲ/</span></span> |
+| airne | <span class="ga-word">airne<span class="ga-tooltip">/aɾʲnʲə/</span></span> |
+| airde | <span class="ga-word">airde<span class="ga-tooltip">/aːɾʲdʲɛ/</span></span> |
+| caillte | <span class="ga-word">caillte<span class="ga-tooltip">/kaːl̠ʲtʲɛ/</span></span> |
+| crainn | <span class="ga-word">crainn<span class="ga-tooltip">/kɾˠaːn̠ʲ/</span></span> |
+| eolais | <span class="ga-word">eolais<span class="ga-tooltip">/ɔːlʲəʃ/</span></span> |
+| maígh | <span class="ga-word">maígh<span class="ga-tooltip">/mˠaɪːj/</span></span> |
+| gutaí | <span class="ga-word">gutaí<span class="ga-tooltip">/ɡʊt̪ˠəɪː/</span></span> |
+| naíonán | <span class="ga-word">naíonán<span class="ga-tooltip">/nˠaɪːɔnˠəːnˠ/</span></span> |
+| beannaíonn | <span class="ga-word">beannaíonn<span class="ga-tooltip">/bʲaːn̠ʲəɪːɔn̪ˠ/</span></span> |
+| saol | <span class="ga-word">saol<span class="ga-tooltip">/sˠɪːlˠ/</span></span> |
+| gaois | <span class="ga-word">gaois<span class="ga-tooltip">/ɡɪːʃ/</span></span> |
+| naoi | <span class="ga-word">naoi<span class="ga-tooltip">/nˠɪː/</span></span> |
+| te | <span class="ga-word">te<span class="ga-tooltip">/tʲɛ/</span></span> |
+| ceist | <span class="ga-word">ceist<span class="ga-tooltip">/cɛʃtʲ/</span></span> |
+| eirleach | <span class="ga-word">eirleach<span class="ga-tooltip">/ɛɾʲlʲaç/</span></span> |
+| ceirnín | <span class="ga-word">ceirnín<span class="ga-tooltip">/cɛɾʲnʲɪːnʲ/</span></span> |
+| ceird | <span class="ga-word">ceird<span class="ga-tooltip">/cɛɾʲdʲ/</span></span> |
+| creimeadh | <span class="ga-word">creimeadh<span class="ga-tooltip">/cɾʲɛmʲaj/</span></span> |
+| sceimhle | <span class="ga-word">sceimhle<span class="ga-tooltip">/ʃcɛvʲlʲɛ/</span></span> |
+| seinm | <span class="ga-word">seinm<span class="ga-tooltip">/ʃɛnʲmʲ/</span></span> |
+| greim | <span class="ga-word">greim<span class="ga-tooltip">/ɟɾʲɛmʲ/</span></span> |
+| míle | <span class="ga-word">míle<span class="ga-tooltip">/mʲɪːlʲə/</span></span> |
+| sé | <span class="ga-word">sé<span class="ga-tooltip">/ʃɛː/</span></span> |
+| déanamh | <span class="ga-word">déanamh<span class="ga-tooltip">/dʲɛːanˠəw/</span></span> |
+| buidéal | <span class="ga-word">buidéal<span class="ga-tooltip">/bˠʊɪdʲəːalˠ/</span></span> |
+| scéimh | <span class="ga-word">scéimh<span class="ga-tooltip">/ʃcɛːvʲ/</span></span> |
+| páipéir | <span class="ga-word">páipéir<span class="ga-tooltip">/pˠaːɪpʲəːɾʲ/</span></span> |
+| seán | <span class="ga-word">seán<span class="ga-tooltip">/ʃaːnˠ/</span></span> |
+| caisleán | <span class="ga-word">caisleán<span class="ga-tooltip">/kaʃlʲəːnˠ/</span></span> |
+| meáin | <span class="ga-word">meáin<span class="ga-tooltip">/mʲaːɪnʲ/</span></span> |
+| caisleáin | <span class="ga-word">caisleáin<span class="ga-tooltip">/kaʃlʲəːɪnʲ/</span></span> |
+| ceol | <span class="ga-word">ceol<span class="ga-tooltip">/cɔːlʲ/</span></span> |
+| dreoilín | <span class="ga-word">dreoilín<span class="ga-tooltip">/dʲɾʲɔːlʲɪːnʲ/</span></span> |
+| pic | <span class="ga-word">pic<span class="ga-tooltip">/pʲɪc/</span></span> |
+| ifreann | <span class="ga-word">ifreann<span class="ga-tooltip">/ɪfʲɾʲəːn̠ʲ/</span></span> |
+| cill | <span class="ga-word">cill<span class="ga-tooltip">/cɪl̠ʲ/</span></span> |
+| cinnte | <span class="ga-word">cinnte<span class="ga-tooltip">/cɪn̠ʲtʲə/</span></span> |
+| im | <span class="ga-word">im<span class="ga-tooltip">/ɪmʲ/</span></span> |
+| faoistin | <span class="ga-word">faoistin<span class="ga-tooltip">/fˠɪːʃtʲɪnʲ/</span></span> |
+| gnímh | <span class="ga-word">gnímh<span class="ga-tooltip">/ɟnʲɪːvʲ/</span></span> |
+| cailín | <span class="ga-word">cailín<span class="ga-tooltip">/kalʲəːnʲ/</span></span> |
+| síol | <span class="ga-word">síol<span class="ga-tooltip">/ʃɪːɔlˠ/</span></span> |
+| diarmaid | <span class="ga-word">diarmaid<span class="ga-tooltip">/dʲɪəɾʲmʲədʲ/</span></span> |
+| bliain | <span class="ga-word">bliain<span class="ga-tooltip">/bʲlʲɪənʲ/</span></span> |
+| bián | <span class="ga-word">bián<span class="ga-tooltip">/bʲɪəːnˠ/</span></span> |
+| liáin | <span class="ga-word">liáin<span class="ga-tooltip">/lʲɪəːɪnʲ/</span></span> |
+| siopa | <span class="ga-word">siopa<span class="ga-tooltip">/ʃʊpˠə/</span></span> |
+| liom | <span class="ga-word">liom<span class="ga-tooltip">/lʲʊmˠ/</span></span> |
+| tiocfaidh | <span class="ga-word">tiocfaidh<span class="ga-tooltip">/tʲʊkfˠəj/</span></span> |
+| siobhán | <span class="ga-word">siobhán<span class="ga-tooltip">/ʃʊwəːnˠ/</span></span> |
+| ionga | <span class="ga-word">ionga<span class="ga-tooltip">/ʊŋə/</span></span> |
+| fios | <span class="ga-word">fios<span class="ga-tooltip">/fʲʊsˠ/</span></span> |
+| bior | <span class="ga-word">bior<span class="ga-tooltip">/bʲʊɾˠ/</span></span> |
+| cion | <span class="ga-word">cion<span class="ga-tooltip">/cʊnˠ/</span></span> |
+| giota | <span class="ga-word">giota<span class="ga-tooltip">/ɟʊt̪ˠə/</span></span> |
+| friotháil | <span class="ga-word">friotháil<span class="ga-tooltip">/fʲɾʲʊhəːɪlʲ/</span></span> |
+| fionn | <span class="ga-word">fionn<span class="ga-tooltip">/fʲʊn̪ˠ/</span></span> |
+| sióg | <span class="ga-word">sióg<span class="ga-tooltip">/ʃɪɔːɡ/</span></span> |
+| pióg | <span class="ga-word">pióg<span class="ga-tooltip">/pʲɪɔːɡ/</span></span> |
+| grióir | <span class="ga-word">grióir<span class="ga-tooltip">/ɟɾʲɪɔːɪɾʲ/</span></span> |
+| fliuch | <span class="ga-word">fliuch<span class="ga-tooltip">/fʲlʲʊç/</span></span> |
+| siúl | <span class="ga-word">siúl<span class="ga-tooltip">/ʃɪʊːlˠ/</span></span> |
+| bailiú | <span class="ga-word">bailiú<span class="ga-tooltip">/bˠalʲəʊː/</span></span> |
+| ciúin | <span class="ga-word">ciúin<span class="ga-tooltip">/cɪʊːɪnʲ/</span></span> |
+| inniúil | <span class="ga-word">inniúil<span class="ga-tooltip">/ɪn̠ʲəʊːɪlʲ/</span></span> |
+| post | <span class="ga-word">post<span class="ga-tooltip">/pˠɔsˠt̪ˠ/</span></span> |
+| bord | <span class="ga-word">bord<span class="ga-tooltip">/bˠɔɾˠd̪ˠ/</span></span> |
+| orlach | <span class="ga-word">orlach<span class="ga-tooltip">/ɔɾˠlˠəx/</span></span> |
+| conradh | <span class="ga-word">conradh<span class="ga-tooltip">/kɔnˠɾˠəɣ/</span></span> |
+| cromóg | <span class="ga-word">cromóg<span class="ga-tooltip">/kɾˠɔmˠəːɡ/</span></span> |
+| fonn | <span class="ga-word">fonn<span class="ga-tooltip">/fˠɔn̪ˠ/</span></span> |
+| trom | <span class="ga-word">trom<span class="ga-tooltip">/t̪ˠɾˠɔmˠ/</span></span> |
+| long | <span class="ga-word">long<span class="ga-tooltip">/lˠɔŋ/</span></span> |
+| mo | <span class="ga-word">mo<span class="ga-tooltip">/mˠɔ/</span></span> |
+| cothrom | <span class="ga-word">cothrom<span class="ga-tooltip">/kɔhɾˠəmˠ/</span></span> |
+| póg | <span class="ga-word">póg<span class="ga-tooltip">/pˠɔːɡ/</span></span> |
+| armónach | <span class="ga-word">armónach<span class="ga-tooltip">/aɾˠmˠəːnˠəx/</span></span> |
+| móin | <span class="ga-word">móin<span class="ga-tooltip">/mˠɔːɪnʲ/</span></span> |
+| bádóir | <span class="ga-word">bádóir<span class="ga-tooltip">/bˠaːd̪ˠɔːɪɾʲ/</span></span> |
+| scoil | <span class="ga-word">scoil<span class="ga-tooltip">/sˠkɔɪlʲ/</span></span> |
+| troid | <span class="ga-word">troid<span class="ga-tooltip">/t̪ˠɾˠɔɪdʲ/</span></span> |
+| toitín | <span class="ga-word">toitín<span class="ga-tooltip">/t̪ˠɔɪtʲəːnʲ/</span></span> |
+| oibre | <span class="ga-word">oibre<span class="ga-tooltip">/ɔɪbʲɾʲə/</span></span> |
+| thoir | <span class="ga-word">thoir<span class="ga-tooltip">/hɔɪɾʲ/</span></span> |
+| cloiche | <span class="ga-word">cloiche<span class="ga-tooltip">/klˠɔɪçə/</span></span> |
+| cois | <span class="ga-word">cois<span class="ga-tooltip">/kɔɪʃ/</span></span> |
+| cloisfidh | <span class="ga-word">cloisfidh<span class="ga-tooltip">/klˠɔɪʃfʲəj/</span></span> |
+| boicht | <span class="ga-word">boicht<span class="ga-tooltip">/bˠɔɪçtʲ/</span></span> |
+| doirse | <span class="ga-word">doirse<span class="ga-tooltip">/d̪ˠɔɪɾʲʃə/</span></span> |
+| goirt | <span class="ga-word">goirt<span class="ga-tooltip">/ɡɔɪɾʲtʲ/</span></span> |
+| oirthear | <span class="ga-word">oirthear<span class="ga-tooltip">/ɔɪɾʲhəɾʲ/</span></span> |
+| coirnéal | <span class="ga-word">coirnéal<span class="ga-tooltip">/kɔɪɾʲnʲəːalˠ/</span></span> |
+| oird | <span class="ga-word">oird<span class="ga-tooltip">/ɔɪɾʲdʲ/</span></span> |
+| anois | <span class="ga-word">anois<span class="ga-tooltip">/anˠəɪʃ/</span></span> |
+| gloine | <span class="ga-word">gloine<span class="ga-tooltip">/ɡlˠɔɪnʲə/</span></span> |
+| cnoic | <span class="ga-word">cnoic<span class="ga-tooltip">/knˠɔɪc/</span></span> |
+| roimh | <span class="ga-word">roimh<span class="ga-tooltip">/ɾˠɔɪvʲ/</span></span> |
+| coimeád | <span class="ga-word">coimeád<span class="ga-tooltip">/kɔɪmʲəːd̪ˠ/</span></span> |
+| loinge | <span class="ga-word">loinge<span class="ga-tooltip">/lˠɔɪɲə/</span></span> |
+| foinn | <span class="ga-word">foinn<span class="ga-tooltip">/fˠɔɪn̠ʲ/</span></span> |
+| droim | <span class="ga-word">droim<span class="ga-tooltip">/d̪ˠɾˠɔɪmʲ/</span></span> |
+| goill | <span class="ga-word">goill<span class="ga-tooltip">/ɡɔɪl̠ʲ/</span></span> |
+| coillte | <span class="ga-word">coillte<span class="ga-tooltip">/kɔɪl̠ʲtʲə/</span></span> |
+| éadroime | <span class="ga-word">éadroime<span class="ga-tooltip">/ɛːad̪ˠɾˠəɪmʲə/</span></span> |
+| croíleacán | <span class="ga-word">croíleacán<span class="ga-tooltip">/kɾˠɔɪːlʲəcəːnˠ/</span></span> |
+| croíonna | <span class="ga-word">croíonna<span class="ga-tooltip">/kɾˠɔɪːɔn̪ˠə/</span></span> |
+| dubh | <span class="ga-word">dubh<span class="ga-tooltip">/d̪ˠʊw/</span></span> |
+| burla | <span class="ga-word">burla<span class="ga-tooltip">/bˠʊɾˠlˠə/</span></span> |
+| murnán | <span class="ga-word">murnán<span class="ga-tooltip">/mˠʊɾˠnˠəːnˠ/</span></span> |
+| agus | <span class="ga-word">agus<span class="ga-tooltip">/aɡəsˠ/</span></span> |
+| tús | <span class="ga-word">tús<span class="ga-tooltip">/t̪ˠʊːsˠ/</span></span> |
+| súil | <span class="ga-word">súil<span class="ga-tooltip">/sˠʊːɪlʲ/</span></span> |
+| cosúil | <span class="ga-word">cosúil<span class="ga-tooltip">/kɔsˠʊːɪlʲ/</span></span> |
+| fuar | <span class="ga-word">fuar<span class="ga-tooltip">/fˠʊəɾˠ/</span></span> |
+| fuair | <span class="ga-word">fuair<span class="ga-tooltip">/fˠʊəɾʲ/</span></span> |
+| ruán | <span class="ga-word">ruán<span class="ga-tooltip">/ɾˠʊəːnˠ/</span></span> |
+| duán | <span class="ga-word">duán<span class="ga-tooltip">/d̪ˠʊəːnˠ/</span></span> |
+| fuáil | <span class="ga-word">fuáil<span class="ga-tooltip">/fˠʊəːɪlʲ/</span></span> |
+| duine | <span class="ga-word">duine<span class="ga-tooltip">/d̪ˠʊɪnʲə/</span></span> |
+| duirling | <span class="ga-word">duirling<span class="ga-tooltip">/d̪ˠʊɪɾʲlʲəɲ/</span></span> |
+| tuirne | <span class="ga-word">tuirne<span class="ga-tooltip">/t̪ˠʊɪɾʲnʲə/</span></span> |
+| aguisín | <span class="ga-word">aguisín<span class="ga-tooltip">/aɡəɪʃəːnʲ/</span></span> |
+| buígh | <span class="ga-word">buígh<span class="ga-tooltip">/bˠʊɪːj/</span></span> |
+| buíon | <span class="ga-word">buíon<span class="ga-tooltip">/bˠʊɪːɔnˠ/</span></span> |
+| cruóg | <span class="ga-word">cruóg<span class="ga-tooltip">/kɾˠʊɔːɡ/</span></span> |
+| luóige | <span class="ga-word">luóige<span class="ga-tooltip">/lˠʊɔːɪɟə/</span></span> |
+| feabhra | <span class="ga-word">feabhra<span class="ga-tooltip">/fʲavʲɾʲə/</span></span> |
+| leabhair | <span class="ga-word">leabhair<span class="ga-tooltip">/lʲavʲəɾʲ/</span></span> |
+| sabhall | <span class="ga-word">sabhall<span class="ga-tooltip">/sˠawəl̪ˠ/</span></span> |
+| meadhg | <span class="ga-word">meadhg<span class="ga-tooltip">/mʲajɟ/</span></span> |
+| adharc | <span class="ga-word">adharc<span class="ga-tooltip">/aɣəɾˠk/</span></span> |
+| adhairt | <span class="ga-word">adhairt<span class="ga-tooltip">/aɣəɾʲtʲ/</span></span> |
+| saghsanna | <span class="ga-word">saghsanna<span class="ga-tooltip">/sˠaɣsˠən̪ˠa/</span></span> |
+| deagha | <span class="ga-word">deagha<span class="ga-tooltip">/dʲajə/</span></span> |
+| aghaidh | <span class="ga-word">aghaidh<span class="ga-tooltip">/aɣəj/</span></span> |
+| margadh | <span class="ga-word">margadh<span class="ga-tooltip">/mˠaɾˠɡəɣ/</span></span> |
+| briseadh | <span class="ga-word">briseadh<span class="ga-tooltip">/bʲɾʲɪʃəj/</span></span> |
+| aidhleann | <span class="ga-word">aidhleann<span class="ga-tooltip">/ajlʲəːn̠ʲ/</span></span> |
+| aidhe | <span class="ga-word">aidhe<span class="ga-tooltip">/ajə/</span></span> |
+| aighneas | <span class="ga-word">aighneas<span class="ga-tooltip">/ajnʲəʃ/</span></span> |
+| aighe | <span class="ga-word">aighe<span class="ga-tooltip">/ajə/</span></span> |
+| caighean | <span class="ga-word">caighean<span class="ga-tooltip">/kajənʲ/</span></span> |
+| bacaigh | <span class="ga-word">bacaigh<span class="ga-tooltip">/bˠakəj/</span></span> |
+| ramhraigh | <span class="ga-word">ramhraigh<span class="ga-tooltip">/ɾˠawɾˠəj/</span></span> |
+| amhantar | <span class="ga-word">amhantar<span class="ga-tooltip">/awənˠt̪ˠaɾˠ/</span></span> |
+| acadamh | <span class="ga-word">acadamh<span class="ga-tooltip">/akəd̪ˠaw/</span></span> |
+| creideamh | <span class="ga-word">creideamh<span class="ga-tooltip">/cɾʲɛdʲavʲ/</span></span> |
+| feidhm | <span class="ga-word">feidhm<span class="ga-tooltip">/fʲɛjmʲ/</span></span> |
+| eidheann | <span class="ga-word">eidheann<span class="ga-tooltip">/ɛjaːn̠ʲ/</span></span> |
+| feighlí | <span class="ga-word">feighlí<span class="ga-tooltip">/fʲɛjlʲɪː/</span></span> |
+| leigheas | <span class="ga-word">leigheas<span class="ga-tooltip">/lʲɛjaʃ/</span></span> |
+| ligh | <span class="ga-word">ligh<span class="ga-tooltip">/lʲɪj/</span></span> |
+| guigh | <span class="ga-word">guigh<span class="ga-tooltip">/ɡʊɪj/</span></span> |
+| tuillidh | <span class="ga-word">tuillidh<span class="ga-tooltip">/t̪ˠʊɪl̠ʲəj/</span></span> |
+| oidhre | <span class="ga-word">oidhre<span class="ga-tooltip">/ɔɪjɾʲə/</span></span> |
+| oidheanna | <span class="ga-word">oidheanna<span class="ga-tooltip">/ɔɪjəːn̠ʲə/</span></span> |
+| oigheann | <span class="ga-word">oigheann<span class="ga-tooltip">/ɔɪjəːn̠ʲ/</span></span> |
+| loighic | <span class="ga-word">loighic<span class="ga-tooltip">/lˠɔɪjəc/</span></span> |
+| lobhra | <span class="ga-word">lobhra<span class="ga-tooltip">/lˠɔwɾˠə/</span></span> |
+| bodhar | <span class="ga-word">bodhar<span class="ga-tooltip">/bˠɔɣəɾˠ/</span></span> |
+| doghra | <span class="ga-word">doghra<span class="ga-tooltip">/d̪ˠɔɣɾˠə/</span></span> |
+| domhnach | <span class="ga-word">domhnach<span class="ga-tooltip">/d̪ˠɔwnˠəx/</span></span> |
+| comhar | <span class="ga-word">comhar<span class="ga-tooltip">/kɔwəɾˠ/</span></span> |
+| domhain | <span class="ga-word">domhain<span class="ga-tooltip">/d̪ˠɔwənʲ/</span></span> |
+| dubh | <span class="ga-word">dubh<span class="ga-tooltip">/d̪ˠʊw/</span></span> |
+| tiubh | <span class="ga-word">tiubh<span class="ga-tooltip">/tʲʊvʲ/</span></span> |
+| cumhra | <span class="ga-word">cumhra<span class="ga-tooltip">/kʊwɾˠə/</span></span> |
+| mumhan | <span class="ga-word">mumhan<span class="ga-tooltip">/mˠʊwənˠ/</span></span> |
+| ciumhais | <span class="ga-word">ciumhais<span class="ga-tooltip">/cʊvʲəʃ/</span></span> |
+| beannóidh | <span class="ga-word">beannóidh<span class="ga-tooltip">/bʲaːn̠ʲɔːɪj/</span></span> |
+| bheannóinn | <span class="ga-word">bheannóinn<span class="ga-tooltip">/vʲaːn̠ʲɔːɪn̠ʲ/</span></span> |
+| dhófadh | <span class="ga-word">dhófadh<span class="ga-tooltip">/ɣɔːfˠəɣ/</span></span> |
+| déarfaidh | <span class="ga-word">déarfaidh<span class="ga-tooltip">/dʲɛːaɾˠfˠəj/</span></span> |
+| molaim | <span class="ga-word">molaim<span class="ga-tooltip">/mˠɔlˠəmʲ/</span></span> |

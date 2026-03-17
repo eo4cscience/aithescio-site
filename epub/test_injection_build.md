@@ -21,7 +21,7 @@ The entire comment block is replaced by the return value during the `process_con
 
 
 
-**Result for a timestanp:** 2026-03-17 11:51:15
+**Result for a timestanp:** 2026-03-17 11:57:01
 
 
 
@@ -53,7 +53,7 @@ This is a more complex example where the engine uses a sample from a data file f
 
 The phonetics engine transliterates this into:
 
-<ga ipa="/vʲɪːɔɣ nˠa hʲɪəʃcəɾʲɪː aɡ kʊɾˠ nˠa mˠaːd̪ˠ ɪnʲ ɔɪɾʲəʊːɪnʲtʲ d̪ˠɔ hɛːasˠəːɾˠ anˠ aɾʲəj/">Bhíodh na hiascairí ag cur na mbád in oiriúint do shéasúr an earraigh</ga>
+<span class="ga-word">Bhíodh na hiascairí ag cur na mbád in oiriúint do shéasúr an earraigh<span class="ga-tooltip">/vʲɪːɔɣ nˠa hʲɪəʃcəɾʲɪː aɡ kʊɾˠ nˠa mˠaːd̪ˠ ɪnʲ ɔɪɾʲəʊːɪnʲtʲ d̪ˠɔ hɛːasˠəːɾˠ anˠ aɾʲəj/</span></span>
 
 At a later stage the morphological parser will provide the input for the LIG injection process but for now the morphological data is hard-coded in the global injection context environment.
 
@@ -232,9 +232,9 @@ The fishermen used to be preparing the boats for the spring season.
 ## 4. Automatic Build Metadata (`build_timestamp`)
 
 ### Markdown Syntax
-`2026-03-17 11:51:15`
+`2026-03-17 11:57:01`
 
 ### Backend Process
 The `get_timestamp()` function is called at build time, retrieving the current system clock. This ensures that every generated document has an accurate "Last Updated" marker.
 
-**Result:** _Page generated at: 2026-03-17 11:51:15_
+**Result:** _Page generated at: 2026-03-17 11:57:01_
