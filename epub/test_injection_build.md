@@ -21,7 +21,7 @@ The entire comment block is replaced by the return value during the `process_con
 
 
 
-**Result for a timestanp:** 2026-03-16 07:49:51
+**Result for a timestanp:** 2026-03-17 11:51:15
 
 
 
@@ -47,8 +47,95 @@ The function returns a formatted string: `f"Greetings, {honoric} {name}!"`. This
 
 ## 3. LIG Component Automation (`LIG`)
 
+This is a more complex example where the engine uses a sample from a data file for now. The sentence is:
+
+`Bhíodh na hiascairí ag cur na mbád in oiriúint do shéasúr an earraigh`.
+
+The phonetics engine transliterates this into:
+
+<ga ipa="/vʲɪːɔɣ nˠa hʲɪəʃcəɾʲɪː aɡ kʊɾˠ nˠa mˠaːd̪ˠ ɪnʲ ɔɪɾʲəʊːɪnʲtʲ d̪ˠɔ hɛːasˠəːɾˠ anˠ aɾʲəj/">Bhíodh na hiascairí ag cur na mbád in oiriúint do shéasúr an earraigh</ga>
+
+At a later stage the morphological parser will provide the input for the LIG injection process but for now the morphological data is hard-coded in the global injection context environment.
+
 ### Markdown Syntax
-`<!-­- LIG {"id": "fishermen_sentence"} -­->`
+`
+<div class="lig-container lig-display">
+<div class="lig-line-source">Bhíodh na hiascairí ag cur na mbád in oiriúint do shéasúr an earraigh.</div>
+<div class="lig-line-ipa">/vʲiːəx nə hiasˠkəɾʲiː ə kʊɾˠ nə mˠaːd̪ˠ ə n̪ˠɔɾʲuːnʲtʲ d̪ˠɔ çeːsˠuːɾˠ ə nʲaɾˠə/</div>
+<div class="lig-morpheme-collection">
+<div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">Bhí-odh</div>
+<div class="lig-morpheme-src-stem">bí</div>
+<div class="lig-morpheme-tgt-text">be</div>
+<div class="lig-morpheme-func">bí.PAST-HABIT.3SG.AUT</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">na</div>
+<div class="lig-morpheme-src-stem">na</div>
+<div class="lig-morpheme-tgt-text">the</div>
+<div class="lig-morpheme-func">na.DEF.ART.PL</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">h-iasc-airí</div>
+<div class="lig-morpheme-src-stem">iasc</div>
+<div class="lig-morpheme-tgt-text">fish</div>
+<div class="lig-morpheme-func">HIATUS-iasc-ER.PL</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">ag</div>
+<div class="lig-morpheme-src-stem">ag</div>
+<div class="lig-morpheme-tgt-text">at</div>
+<div class="lig-morpheme-func">ag.PROG</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">cur</div>
+<div class="lig-morpheme-src-stem">cuir</div>
+<div class="lig-morpheme-tgt-text">put</div>
+<div class="lig-morpheme-func">cuir.VN</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">na</div>
+<div class="lig-morpheme-src-stem">na</div>
+<div class="lig-morpheme-tgt-text">the</div>
+<div class="lig-morpheme-func">na.DEF.ART.GEN.PL</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">m-bád</div>
+<div class="lig-morpheme-src-stem">bád</div>
+<div class="lig-morpheme-tgt-text">boat</div>
+<div class="lig-morpheme-func">ECL-bád.GEN.PL</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">in</div>
+<div class="lig-morpheme-src-stem">i</div>
+<div class="lig-morpheme-tgt-text">in</div>
+<div class="lig-morpheme-func">i.prep</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">oiriúint</div>
+<div class="lig-morpheme-src-stem">oiriúint</div>
+<div class="lig-morpheme-tgt-text">preparation</div>
+<div class="lig-morpheme-func">oiriúint.VN</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">do</div>
+<div class="lig-morpheme-src-stem">do</div>
+<div class="lig-morpheme-tgt-text">for</div>
+<div class="lig-morpheme-func">do.prep</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">shéasúr</div>
+<div class="lig-morpheme-src-stem">séasúr</div>
+<div class="lig-morpheme-tgt-text">season</div>
+<div class="lig-morpheme-func">LEN-séasúr</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">an</div>
+<div class="lig-morpheme-src-stem">an</div>
+<div class="lig-morpheme-tgt-text">the</div>
+<div class="lig-morpheme-func">an.DEF.ART.GEN.SG</div>
+</div><div class="lig-morpheme-stack">
+<div class="lig-morpheme-text">earraigh</div>
+<div class="lig-morpheme-src-stem">earrach</div>
+<div class="lig-morpheme-tgt-text">spring</div>
+<div class="lig-morpheme-func">earrach.GEN.SG</div>
+</div>
+</div>
+<div class="lig-line-translation">
+The fishermen used to be preparing the boats for the spring season.
+</div>
+</div>
+`
+
 
 ### Parameters & Backend Usage
 - **`id`**: Key used to look up morphological data in `backend/data/lig_samples.json`.
@@ -145,9 +232,9 @@ The fishermen used to be preparing the boats for the spring season.
 ## 4. Automatic Build Metadata (`build_timestamp`)
 
 ### Markdown Syntax
-`2026-03-16 07:49:51`
+`2026-03-17 11:51:15`
 
 ### Backend Process
 The `get_timestamp()` function is called at build time, retrieving the current system clock. This ensures that every generated document has an accurate "Last Updated" marker.
 
-**Result:** _Page generated at: 2026-03-16 07:49:51_
+**Result:** _Page generated at: 2026-03-17 11:51:15_
