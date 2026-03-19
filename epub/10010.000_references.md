@@ -2,34 +2,75 @@
 
 The following external publications and resources inform the theoretical and computational foundation of Aithesc.io:
 
-- **Vennemann Theo** (2003). *Europa Vasconica - Europa Semitica*. Mouton de Gruyter.
-- **Gensler Orin** (1993). *A Typological Evaluation of the Afroasiatic Substrate Hypothesis for Insular Celtic*.
-- **Cassidy Lara, Martiniano Rui, Murphy Eileen, Teasdale Matthew, Mallory James, Hartwell Barrie, Bradley Daniel** (2016). *Neolithic and Bronze Age migration to Ireland and establishment of the insular Atlantic genome*.
-- **Cassidy Lara, Maoldúin Ros, Kador Thomas, Lynch Ann, Jones Carleton, Woodman Peter, Murphy Eileen, Ramsey G., Dowd M., Noonan A., Campbell C., Jones E., Mattiangeli V., Bradley Daniel** (2020). *A dynastic elite in monumental Neolithic society*.
-- **Brace Selina, Diekmann Yoan, Booth Thomas, Faltyskova Zuzana, Rohland Nadin, Mallick Swapan, Ferry Matthew, Michel Megan, Oppenheimer J., Broomandkhoshbacht Niru, Stewardson Kristin, Martiniano Rui, Walsh S., Kayser M., Charlton S., Hellenthal G., Armit Ian, Schulting Rick, Craig O., Sheridan Alison, Pearson M., Krause Johannes, Reich David, Barnes Ian, Thomas Mark** (2019). *Ancient genomes indicate population replacement in Early Neolithic Britain*.
-- **Olalde Iñigo, Brace Selina, others ** (2018). *The Beaker phenomenon and the genomic transformation of northwest Europe*.
-- **Thurneysen Rudolf** (1946). *A Grammar of Old Irish*. Dublin Institute for Advanced Studies.
-- **Dryer Matthew** (2013). *Order of Subject, Object and Verb*. Max Planck Institute for Evolutionary Anthropology.
-- **Reich David** (2018). *Who We Are and How We Got Here: Ancient DNA and the new science of the human past*. Pantheon.
 - **** (2021). *Doggerland: Lost World under the North Sea*. Sidestone Press.
-- **Maier Bernhard** (2003). *The Celts: A History from Earliest Times to the Present*. University of Notre Dame Press.
-- **Dryer Matthew** (1992). *The Greenbergian Word Order Correlations*.
-- **Gell-Mann Murray, Ruhlen Merritt** (2011). *The origin and evolution of word order*.
-- **Hawkins John** (2014). *Cross-Linguistic Variation and Efficiency*. Oxford University Press.
-- **Gensler Orin** (1993). *A Typological Evaluation of the Hamito-Semitic Substratum Hypothesis for Celtic*.
-- **Harris Alice, Campbell Lyle** (1995). *Historical Syntax in Cross-Linguistic Perspective*. Cambridge University Press.
-- **Dryer Matthew, Haspelmath Martin** (2013). *WALS Online*. Max Planck Institute for Evolutionary Anthropology.
-- **Berger Daniel, others ** (2019). *Isotope systematics and chemical composition of tin ingots from pelagic and ship-wreck contexts: New insights into the Bronze Age tin trade*.
-- **Cunliffe Barry** (2001). *Facing the Ocean: The Atlantic and its Peoples*. Oxford University Press.
-- **McGrail Seán** (2001). *Boats of the World: From the Stone Age to Medieval Times*. Oxford University Press.
-- **Green Chris** (2018). *From the Nile to the Thanet: A North African in Bronze Age Kent*.
-- **Schrijver Peter** (2001). *Lost Languages in Northern Europe*.
-- **Bernal Martin** (1987). *Black Athena: The Afroasiatic Roots of Classical Civilization*. Rutgers University Press.
-- **Collis John** (2003). *The Celts: Origins, Myths and Inventions*. Tempus.
+- **Amkreutz Edited** (n.d.). *Doggerland. {Lost} {World} {Under} the {North} {Sea}*.
+- **Andriyanets Vasilisa, Tyers Francis** (2018). *A prototype finite-state morphological analyser for {Chukchi}*. Association for Computational Linguistics.
+- **Antonsen Lene, Johnson Ryan, Trosterud Trond, Uibo Heli** (2013). *Generating {Modular} {Grammar} {Exercises} with {Finite}-{State} {Transducers}*.
 - **Aubet Maria** (2001). *The Phoenicians and the West: Politics, Colonies and Trade*. Cambridge University Press.
-- **Oppenheimer Stephen** (2006). *The Origins of the British: A Genetic Detective Story*. Robinson.
+- **Beesley Kenneth, Karttunen Lauri** (2003). *Finite state morphology*. CSLI Publ.
+- **Berger Daniel, others ** (2019). *Isotope systematics and chemical composition of tin ingots from pelagic and ship-wreck contexts: New insights into the Bronze Age tin trade*.
+- **Bernal Martin** (1987). *Black Athena: The Afroasiatic Roots of Classical Civilization*. Rutgers University Press.
+- **** (1996). *The {Syntax} of the {Celtic} languages: a comparative perspective*. Cambridge University Press.
+- **Brace Selina, Diekmann Yoan, Booth Thomas, Faltyskova Zuzana, Rohland Nadin, Mallick Swapan, Ferry Matthew, Michel Megan, Oppenheimer J., Broomandkhoshbacht Niru, Stewardson Kristin, Martiniano Rui, Walsh S., Kayser M., Charlton S., Hellenthal G., Armit Ian, Schulting Rick, Craig O., Sheridan Alison, Pearson M., Krause Johannes, Reich David, Barnes Ian, Thomas Mark** (2019). *Ancient genomes indicate population replacement in Early Neolithic Britain*.
+- **Cassidy Lara, Maoldúin Ros, Kador Thomas, Lynch Ann, Jones Carleton, Woodman Peter, Murphy Eileen, Ramsey G., Dowd M., Noonan A., Campbell C., Jones E., Mattiangeli V., Bradley Daniel** (2020). *A dynastic elite in monumental Neolithic society*.
+- **Cassidy Lara, Maoldúin Ros, Kador Thomas, Lynch Ann, Jones Carleton, Woodman Peter, Murphy Eileen, Ramsey Greer, Dowd Marion, Noonan Alice, Campbell Ciarán, Jones Eppie, Mattiangeli Valeria, Bradley Daniel** (2020). *A dynastic elite in monumental {Neolithic} society*.
+- **Cassidy Lara, Martiniano Rui, Murphy Eileen, Teasdale Matthew, Mallory James, Hartwell Barrie, Bradley Daniel** (2016). *Neolithic and Bronze Age migration to Ireland and establishment of the insular Atlantic genome*.
+- **Collis John** (2003). *The Celts: Origins, Myths and Inventions*. Tempus.
 - **Cunliffe Barry** (2008). *Europe between the oceans: themes and variations*. Yale University Press.
-- **Gorman Kyle, Sproat Richard** (2021). *Finite-State Text Processing*. Morgan & Claypool.
-- **Uí Elaine, Genabith Josef** (2005). *Scaling an Irish FST morphology engine for use on unrestricted text*.
-- **Uí Elaine** (2008). *Part-of-Speech Tagging and Partial Parsing for Irish using Finite-State Morphology and Constraint Grammar*.
+- **Cunliffe Barry** (2008). *Europe between the oceans: themes and variations 9000 {BC} - {AD} 1000*. Yale university press.
+- **Cunliffe Barry** (2001). *Facing the Ocean: The Atlantic and its Peoples*. Oxford University Press.
+- **Dai Huteng** (2025). *An exception-filtering approach to phonotactic learning*.
+- **Dryer Matthew** (2013). *Order of Subject, Object and Verb*. Max Planck Institute for Evolutionary Anthropology.
+- **Dryer Matthew** (1992). *The Greenbergian Word Order Correlations*.
+- **Dryer Matthew, Haspelmath Martin** (2013). *WALS Online*. Max Planck Institute for Evolutionary Anthropology.
+- **Gell-Mann Murray, Ruhlen Merritt** (2011). *The origin and evolution of word order*.
+- **Gensler Orin** (1993). *A Typological Evaluation of the Afroasiatic Substrate Hypothesis for Insular Celtic*.
+- **Gensler Orin** (1993). *A Typological Evaluation of the Hamito-Semitic Substratum Hypothesis for Celtic*.
+- **Gorman Kyle, Sproat Richard** (2021). *Finite-State Text Processing*. Morgan \\\\& Claypool.
+- **Gorman Kyle, Sproat Richard** (2021). *Finite-{State} {Text} {Processing}*. Springer International Publishing.
+- **Green Chris** (2018). *From the Nile to the Thanet: A North African in Bronze Age Kent*.
+- **Harris Alice, Campbell Lyle** (1995). *Historical Syntax in Cross-Linguistic Perspective*. Cambridge University Press.
+- **Hawkins John** (2014). *Cross-Linguistic Variation and Efficiency*. Oxford University Press.
+- **Hewitt Steve** (n.d.). *The {Question} of a {Hamito}-{Semitic} {Substratum} in {Insular} {Celtic} and {Celtic} from the {West}*.
+- **Hopcroft John, Motwani Rajeev, Ullman Jeffrey** (2007). *Introduction to automata theory, languages, and computation*. Pearson.
+- **Hulden Mans, Ginn Michael, Silfverberg Miikka, Hammond Michael** (2024). *{PyFoma}: a {Python} finite-state compiler module*. Association for Computational Linguistics.
+- **Kazantseva Anna, Maracle Owennatekha, Maracle Ronkwe'tiyóhstha, Pine Aidan** (2018). *Kawennón:nis: the {Wordmaker} for {Kanyen}`kéha*. Association for Computational Linguistics.
+- **** (2018). *Proceedings of the workshop on computational modeling of polysynthetic languages*. Association for Computational Linguistics.
+- **Klavans Judith** (2018). *Computational challenges for polysynthetic languages*. Association for Computational Linguistics.
+- **** (2017). *Handbook of comparative and historical {Indo}-{European} linguistics {Volume} 2*. De Gruyter Mouton.
+- **** (2017). *Handbook of comparative and historical {Indo}-{European} linguistics {Volume} 3*. De Gruyter Mouton.
+- **Klein Jared** (2017). *Handbook of comparative and historical {Indo}-{European} linguistics {Volume} 1*. De Gruyter.
+- **** (2020). *Morphosyntactic {Variation} in {Medieval} {Celtic} {Languages}: {Corpus}-{Based} {Approaches}*. De Gruyter.
+- **Lehmann Ruth, Lehmann Winfred** (1991). *An introduction to {Old} {Irish}*. Modern Language Association of America.
+- **Lessard Greg, Brinklow Nathan, Levison Michael** (2018). *Natural language generation for polysynthetic languages: {Language} teaching and learning software for {Kanyen}`kéha ({Mohawk})*. Association for Computational Linguistics.
+- **Levine Robert** (2017). *Syntactic {Analysis}: {An} {HPSG}-based {Approach}*. Cambridge University Press.
+- **Lillie Malcolm** (2015). *Hunters, fishers and foragers in {Wales}: towards a social narrative of {Mesolithic} lifeways*. Oxbow Books.
+- **Littell Patrick** (2018). *Finite-state morphology for {Kwak}'wala: {A} phonological approach*. Association for Computational Linguistics.
+- **Lobzhanidze Irina** (2022). *Finite-{State} {Computational} {Morphology}: {An} {Analyzer} and {Generator} for {Georgian}*. Springer International Publishing AG.
+- **Mac Nollaig** (2004). *Irish grammar book*. Cló Iar-Chonnachta.
+- **** (2008). *The {Celtic} languages*. Cambridge Univ. Press.
+- **Mager Manuel, Mager Elisabeth, Medina-Urrea Alfonso, Meza Ivan, Kann Katharina** (2018). *Lost in translation: {Analysis} of information loss during machine translation between polysynthetic and fusional languages*. Association for Computational Linguistics.
+- **Mager Manuel, Oncevay Arturo, Mager Elisabeth, Kann Katharina, Vu Ngoc** (2022). *{BPE} vs. {Morphological} {Segmentation}: {A} {Case} {Study} on {Machine} {Translation} of {Four} {Polysynthetic} {Languages}*. arXiv.
+- **Maier Bernhard** (2003). *The Celts: A History from Earliest Times to the Present*. University of Notre Dame Press.
+- **McGrail Seán** (2001). *Boats of the World: From the Stone Age to Medieval Times*. Oxford University Press.
+- **Micher Jeffrey** (2018). *Using the {Nunavut} {Hansard} data for experiments in morphological analysis and machine translation*. Association for Computational Linguistics.
+- **Moeller Sarah, Kazeminejad Ghazaleh, Cowell Andrew, Hulden Mans** (2018). *A neural morphological analyzer for {Arapaho} verbs learned from a finite state transducer*. Association for Computational Linguistics.
+- **Moeller Sarah, Hulden Mans** (2018). *Automatic glossing in a low-resource setting for language documentation*. Association for Computational Linguistics.
+- **Olalde Iñigo, Brace Selina, others ** (2018). *The Beaker phenomenon and the genomic transformation of northwest Europe*.
+- **Oppenheimer Stephen** (2006). *The Origins of the British: A Genetic Detective Story*. Robinson.
+- **Prasain Balaram** (2011). *A computational analysis of nepali morphology: a model for natural language processing*.
+- **Reich David** (2018). *Who We Are and How We Got Here: Ancient DNA and the new science of the human past*. Pantheon.
+- **Reich David** (n.d.). *Who {We} {Are} and {How} {We} {Got} {Here}*.
+- **** (2007). *Computational approaches to morphology and syntax*. Oxford University Press.
 - **Scannell Kevin** (2014). *A statistical machine translation approach to Irish-language standardisation*.
+- **Schrijver Peter** (2001). *Lost Languages in Northern Europe*.
+- **Stifter David** (2006). *Sengoidelc: {Old} {Irish} for beginners*. Syracuse University Press.
+- **** (2003). *Old-{Irish} paradigms and selections from the {Old}-{Irish} glosses*. Royal Irish Academy.
+- **Thurneysen Rudolf** (1946). *A Grammar of Old Irish*. Dublin Institute for Advanced Studies.
+- **Uí Elaine** (2008). *Part-of-Speech Tagging and Partial Parsing for Irish using Finite-State Morphology and Constraint Grammar*.
+- **Uí Elaine, Genabith Josef** (2005). *Scaling an Irish FST morphology engine for use on unrestricted text*.
+- **Vennemann Theo** (2003). *Europa Vasconica - Europa Semitica*. Mouton de Gruyter.
+- **Woodman Peter** (n.d.). *Ireland's {First} {Settlers} {Time} and the {Mesolithic}*.
+- **Yli-Jyrä Anssi, Karttunen Lauri, Karhumäki Juhani** (2006). *Finite-{State} {Methods} and {Natural} {Language} {Processing}: 5th {International} {Workshop}, {FSMNLP} 2005, {Helsinki}, {Finland}, {September} 1-2, 2005. {Revised} {Papers}*. Springer Berlin Heidelberg.
+- **Zupon Andrew, Crew Evan, Ritchie Sandy** (2021). *Text {Normalization} for {Low}-{Resource} {Languages} of {Africa}*. arXiv.
+- **Ó Éamonn** (2011). *Gaeilge gan stró! beginners level ; a multimedia {Irish} languaue course for adults*. Gaelchultúr.
